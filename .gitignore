@@ -10,41 +10,41 @@
 .disable_auto_update
 
 # Ignore the batch files produced by the Windows bootstrapping.
-/git-bash
-/git.bat
-/gitk.bat
-/pylint.bat
-/.pylint.d/
-/python
-/python.bat
-/ssh.bat
-/ssh-keygen.bat
-/svn
-/svn.bat
-/svnversion.bat
-/.bleeding_edge
-/.codereview_upload_cookies
-/.gitconfig
-/.git_bleeding_edge
-/.git_cl_description_backup
-/.last_codereview_email_address
-/.ssh
-/.subversion
+#/git-bash
+#/git.bat
+#/gitk.bat
+#/pylint.bat
+#/.pylint.d/
+#/python
+#/python.bat
+#/ssh.bat
+#/ssh-keygen.bat
+#/svn
+#/svn.bat
+#/svnversion.bat
+#/.bleeding_edge
+#/.codereview_upload_cookies
+#/.gitconfig
+#/.git_bleeding_edge
+#/.git_cl_description_backup
+#/.last_codereview_email_address
+#/.ssh
+#/.subversion
 
 # Ignore locations where third-party tools are placed during bootstrapping.
-/python*_bin
-/python_bin_reldir.txt
-/win_tools*_bin
-/git_bin
-/git-*_bin
-/svn_bin
-/external_bin
-/win_toolchain/vs2013_files
-/win_toolchain/vs_files
-/win_toolchain/*.timestamps
-/win_toolchain/.vspro
-/win_toolchain/data.json
-/win_toolchain/vs_files.ciopfs
+#/python*_bin
+#/python_bin_reldir.txt
+#/win_tools*_bin
+#/git_bin
+#/git-*_bin
+#/svn_bin
+#/external_bin
+#/win_toolchain/vs2013_files
+#/win_toolchain/vs_files
+#/win_toolchain/*.timestamps
+#/win_toolchain/.vspro
+#/win_toolchain/data.json
+#/win_toolchain/vs_files.ciopfs
 
 # Ignore ctags/cscope index files
 /TAGS
