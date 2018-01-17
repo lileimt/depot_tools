@@ -1,0 +1,8295 @@
+{
+  "format_version": "1",
+  "package_name": "infra/python/cpython/windows-386",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "bin/DLLs/_bsddb.pyd",
+      "size": 1012224
+    },
+    {
+      "name": "bin/DLLs/_ctypes.pyd",
+      "size": 87552
+    },
+    {
+      "name": "bin/DLLs/_ctypes_test.pyd",
+      "size": 15872
+    },
+    {
+      "name": "bin/DLLs/_elementtree.pyd",
+      "size": 128512
+    },
+    {
+      "name": "bin/DLLs/_hashlib.pyd",
+      "size": 358400
+    },
+    {
+      "name": "bin/DLLs/_msi.pyd",
+      "size": 48128
+    },
+    {
+      "name": "bin/DLLs/_multiprocessing.pyd",
+      "size": 27136
+    },
+    {
+      "name": "bin/DLLs/_socket.pyd",
+      "size": 44544
+    },
+    {
+      "name": "bin/DLLs/_sqlite3.pyd",
+      "size": 47616
+    },
+    {
+      "name": "bin/DLLs/_ssl.pyd",
+      "size": 899584
+    },
+    {
+      "name": "bin/DLLs/_testcapi.pyd",
+      "size": 32768
+    },
+    {
+      "name": "bin/DLLs/bz2.pyd",
+      "size": 68608
+    },
+    {
+      "name": "bin/DLLs/py.ico",
+      "size": 19790
+    },
+    {
+      "name": "bin/DLLs/pyc.ico",
+      "size": 19790
+    },
+    {
+      "name": "bin/DLLs/pyexpat.pyd",
+      "size": 127488
+    },
+    {
+      "name": "bin/DLLs/select.pyd",
+      "size": 10240
+    },
+    {
+      "name": "bin/DLLs/sqlite3.dll",
+      "size": 426496
+    },
+    {
+      "name": "bin/DLLs/unicodedata.pyd",
+      "size": 686080
+    },
+    {
+      "name": "bin/DLLs/winsound.pyd",
+      "size": 9216
+    },
+    {
+      "name": "bin/LICENSE.txt",
+      "size": 38573
+    },
+    {
+      "name": "bin/Lib/BaseHTTPServer.py",
+      "size": 23064
+    },
+    {
+      "name": "bin/Lib/Bastion.py",
+      "size": 5924
+    },
+    {
+      "name": "bin/Lib/CGIHTTPServer.py",
+      "size": 13460
+    },
+    {
+      "name": "bin/Lib/ConfigParser.py",
+      "size": 28499
+    },
+    {
+      "name": "bin/Lib/Cookie.py",
+      "size": 26605
+    },
+    {
+      "name": "bin/Lib/DocXMLRPCServer.py",
+      "size": 10779
+    },
+    {
+      "name": "bin/Lib/HTMLParser.py",
+      "size": 17454
+    },
+    {
+      "name": "bin/Lib/MimeWriter.py",
+      "size": 6668
+    },
+    {
+      "name": "bin/Lib/Queue.py",
+      "size": 8821
+    },
+    {
+      "name": "bin/Lib/SimpleHTTPServer.py",
+      "size": 7826
+    },
+    {
+      "name": "bin/Lib/SimpleXMLRPCServer.py",
+      "size": 26476
+    },
+    {
+      "name": "bin/Lib/SocketServer.py",
+      "size": 24580
+    },
+    {
+      "name": "bin/Lib/StringIO.py",
+      "size": 10986
+    },
+    {
+      "name": "bin/Lib/UserDict.py",
+      "size": 5991
+    },
+    {
+      "name": "bin/Lib/UserDict.pyc",
+      "size": 9000
+    },
+    {
+      "name": "bin/Lib/UserDict.pyo",
+      "size": 8595
+    },
+    {
+      "name": "bin/Lib/UserList.py",
+      "size": 3732
+    },
+    {
+      "name": "bin/Lib/UserString.py",
+      "size": 9915
+    },
+    {
+      "name": "bin/Lib/_LWPCookieJar.py",
+      "size": 6725
+    },
+    {
+      "name": "bin/Lib/_MozillaCookieJar.py",
+      "size": 5958
+    },
+    {
+      "name": "bin/Lib/__future__.py",
+      "size": 4508
+    },
+    {
+      "name": "bin/Lib/__future__.pyc",
+      "size": 4252
+    },
+    {
+      "name": "bin/Lib/__phello__.foo.py",
+      "size": 65
+    },
+    {
+      "name": "bin/Lib/_abcoll.py",
+      "size": 18536
+    },
+    {
+      "name": "bin/Lib/_abcoll.pyc",
+      "size": 25392
+    },
+    {
+      "name": "bin/Lib/_abcoll.pyo",
+      "size": 24474
+    },
+    {
+      "name": "bin/Lib/_osx_support.py",
+      "size": 19321
+    },
+    {
+      "name": "bin/Lib/_pyio.py",
+      "size": 70874
+    },
+    {
+      "name": "bin/Lib/_strptime.py",
+      "size": 20688
+    },
+    {
+      "name": "bin/Lib/_threading_local.py",
+      "size": 7707
+    },
+    {
+      "name": "bin/Lib/_weakrefset.py",
+      "size": 5978
+    },
+    {
+      "name": "bin/Lib/_weakrefset.pyc",
+      "size": 9870
+    },
+    {
+      "name": "bin/Lib/_weakrefset.pyo",
+      "size": 9438
+    },
+    {
+      "name": "bin/Lib/abc.py",
+      "size": 7330
+    },
+    {
+      "name": "bin/Lib/abc.pyc",
+      "size": 6187
+    },
+    {
+      "name": "bin/Lib/abc.pyo",
+      "size": 6032
+    },
+    {
+      "name": "bin/Lib/aifc.py",
+      "size": 34980
+    },
+    {
+      "name": "bin/Lib/antigravity.py",
+      "size": 64
+    },
+    {
+      "name": "bin/Lib/anydbm.py",
+      "size": 2748
+    },
+    {
+      "name": "bin/Lib/argparse.py",
+      "size": 90891
+    },
+    {
+      "name": "bin/Lib/ast.py",
+      "size": 12116
+    },
+    {
+      "name": "bin/Lib/asynchat.py",
+      "size": 11716
+    },
+    {
+      "name": "bin/Lib/asyncore.py",
+      "size": 21506
+    },
+    {
+      "name": "bin/Lib/atexit.py",
+      "size": 1770
+    },
+    {
+      "name": "bin/Lib/audiodev.py",
+      "size": 7857
+    },
+    {
+      "name": "bin/Lib/base64.py",
+      "size": 11717
+    },
+    {
+      "name": "bin/Lib/bdb.py",
+      "size": 22359
+    },
+    {
+      "name": "bin/Lib/binhex.py",
+      "size": 14984
+    },
+    {
+      "name": "bin/Lib/bisect.py",
+      "size": 2687
+    },
+    {
+      "name": "bin/Lib/bsddb/__init__.py",
+      "size": 16443
+    },
+    {
+      "name": "bin/Lib/bsddb/db.py",
+      "size": 2790
+    },
+    {
+      "name": "bin/Lib/bsddb/dbobj.py",
+      "size": 11597
+    },
+    {
+      "name": "bin/Lib/bsddb/dbrecio.py",
+      "size": 5498
+    },
+    {
+      "name": "bin/Lib/bsddb/dbshelve.py",
+      "size": 11962
+    },
+    {
+      "name": "bin/Lib/bsddb/dbtables.py",
+      "size": 31709
+    },
+    {
+      "name": "bin/Lib/bsddb/dbutils.py",
+      "size": 3047
+    },
+    {
+      "name": "bin/Lib/cProfile.py",
+      "size": 6714
+    },
+    {
+      "name": "bin/Lib/calendar.py",
+      "size": 24018
+    },
+    {
+      "name": "bin/Lib/cgi.py",
+      "size": 35885
+    },
+    {
+      "name": "bin/Lib/cgitb.py",
+      "size": 12503
+    },
+    {
+      "name": "bin/Lib/chunk.py",
+      "size": 5539
+    },
+    {
+      "name": "bin/Lib/cmd.py",
+      "size": 15430
+    },
+    {
+      "name": "bin/Lib/code.py",
+      "size": 10499
+    },
+    {
+      "name": "bin/Lib/codecs.py",
+      "size": 36364
+    },
+    {
+      "name": "bin/Lib/codecs.pyc",
+      "size": 36978
+    },
+    {
+      "name": "bin/Lib/codecs.pyo",
+      "size": 36132
+    },
+    {
+      "name": "bin/Lib/codeop.py",
+      "size": 6167
+    },
+    {
+      "name": "bin/Lib/collections.py",
+      "size": 26708
+    },
+    {
+      "name": "bin/Lib/collections.pyc",
+      "size": 24903
+    },
+    {
+      "name": "bin/Lib/colorsys.py",
+      "size": 3847
+    },
+    {
+      "name": "bin/Lib/commands.py",
+      "size": 2635
+    },
+    {
+      "name": "bin/Lib/compileall.py",
+      "size": 7990
+    },
+    {
+      "name": "bin/Lib/compiler/__init__.py",
+      "size": 1054
+    },
+    {
+      "name": "bin/Lib/compiler/ast.py",
+      "size": 38927
+    },
+    {
+      "name": "bin/Lib/compiler/consts.py",
+      "size": 491
+    },
+    {
+      "name": "bin/Lib/compiler/future.py",
+      "size": 1967
+    },
+    {
+      "name": "bin/Lib/compiler/misc.py",
+      "size": 1867
+    },
+    {
+      "name": "bin/Lib/compiler/pyassem.py",
+      "size": 25023
+    },
+    {
+      "name": "bin/Lib/compiler/pycodegen.py",
+      "size": 49364
+    },
+    {
+      "name": "bin/Lib/compiler/symbols.py",
+      "size": 14951
+    },
+    {
+      "name": "bin/Lib/compiler/syntax.py",
+      "size": 1490
+    },
+    {
+      "name": "bin/Lib/compiler/transformer.py",
+      "size": 54643
+    },
+    {
+      "name": "bin/Lib/compiler/visitor.py",
+      "size": 4009
+    },
+    {
+      "name": "bin/Lib/contextlib.py",
+      "size": 4578
+    },
+    {
+      "name": "bin/Lib/cookielib.py",
+      "size": 66243
+    },
+    {
+      "name": "bin/Lib/copy.py",
+      "size": 11952
+    },
+    {
+      "name": "bin/Lib/copy_reg.py",
+      "size": 7001
+    },
+    {
+      "name": "bin/Lib/copy_reg.pyc",
+      "size": 5157
+    },
+    {
+      "name": "bin/Lib/copy_reg.pyo",
+      "size": 5014
+    },
+    {
+      "name": "bin/Lib/csv.py",
+      "size": 16839
+    },
+    {
+      "name": "bin/Lib/ctypes/__init__.py",
+      "size": 18140
+    },
+    {
+      "name": "bin/Lib/ctypes/_endian.py",
+      "size": 2276
+    },
+    {
+      "name": "bin/Lib/ctypes/macholib/__init__.py",
+      "size": 379
+    },
+    {
+      "name": "bin/Lib/ctypes/macholib/dyld.py",
+      "size": 5510
+    },
+    {
+      "name": "bin/Lib/ctypes/macholib/dylib.py",
+      "size": 2107
+    },
+    {
+      "name": "bin/Lib/ctypes/macholib/framework.py",
+      "size": 2482
+    },
+    {
+      "name": "bin/Lib/ctypes/util.py",
+      "size": 9343
+    },
+    {
+      "name": "bin/Lib/ctypes/wintypes.py",
+      "size": 5534
+    },
+    {
+      "name": "bin/Lib/curses/__init__.py",
+      "size": 1876
+    },
+    {
+      "name": "bin/Lib/curses/ascii.py",
+      "size": 2706
+    },
+    {
+      "name": "bin/Lib/curses/has_key.py",
+      "size": 5819
+    },
+    {
+      "name": "bin/Lib/curses/panel.py",
+      "size": 118
+    },
+    {
+      "name": "bin/Lib/curses/textpad.py",
+      "size": 7526
+    },
+    {
+      "name": "bin/Lib/curses/wrapper.py",
+      "size": 1731
+    },
+    {
+      "name": "bin/Lib/dbhash.py",
+      "size": 516
+    },
+    {
+      "name": "bin/Lib/decimal.py",
+      "size": 227193
+    },
+    {
+      "name": "bin/Lib/difflib.py",
+      "size": 84403
+    },
+    {
+      "name": "bin/Lib/dircache.py",
+      "size": 1167
+    },
+    {
+      "name": "bin/Lib/dis.py",
+      "size": 6723
+    },
+    {
+      "name": "bin/Lib/distutils/__init__.py",
+      "size": 356
+    },
+    {
+      "name": "bin/Lib/distutils/archive_util.py",
+      "size": 8065
+    },
+    {
+      "name": "bin/Lib/distutils/bcppcompiler.py",
+      "size": 15335
+    },
+    {
+      "name": "bin/Lib/distutils/ccompiler.py",
+      "size": 47728
+    },
+    {
+      "name": "bin/Lib/distutils/cmd.py",
+      "size": 19727
+    },
+    {
+      "name": "bin/Lib/distutils/command/__init__.py",
+      "size": 855
+    },
+    {
+      "name": "bin/Lib/distutils/command/bdist.py",
+      "size": 5742
+    },
+    {
+      "name": "bin/Lib/distutils/command/bdist_dumb.py",
+      "size": 5328
+    },
+    {
+      "name": "bin/Lib/distutils/command/bdist_msi.py",
+      "size": 35933
+    },
+    {
+      "name": "bin/Lib/distutils/command/bdist_rpm.py",
+      "size": 21584
+    },
+    {
+      "name": "bin/Lib/distutils/command/bdist_wininst.py",
+      "size": 15365
+    },
+    {
+      "name": "bin/Lib/distutils/command/build.py",
+      "size": 5584
+    },
+    {
+      "name": "bin/Lib/distutils/command/build_clib.py",
+      "size": 8340
+    },
+    {
+      "name": "bin/Lib/distutils/command/build_ext.py",
+      "size": 32885
+    },
+    {
+      "name": "bin/Lib/distutils/command/build_py.py",
+      "size": 16692
+    },
+    {
+      "name": "bin/Lib/distutils/command/build_scripts.py",
+      "size": 4729
+    },
+    {
+      "name": "bin/Lib/distutils/command/check.py",
+      "size": 5706
+    },
+    {
+      "name": "bin/Lib/distutils/command/clean.py",
+      "size": 2894
+    },
+    {
+      "name": "bin/Lib/distutils/command/config.py",
+      "size": 13487
+    },
+    {
+      "name": "bin/Lib/distutils/command/install.py",
+      "size": 26932
+    },
+    {
+      "name": "bin/Lib/distutils/command/install_data.py",
+      "size": 2926
+    },
+    {
+      "name": "bin/Lib/distutils/command/install_egg_info.py",
+      "size": 2665
+    },
+    {
+      "name": "bin/Lib/distutils/command/install_headers.py",
+      "size": 1397
+    },
+    {
+      "name": "bin/Lib/distutils/command/install_lib.py",
+      "size": 8557
+    },
+    {
+      "name": "bin/Lib/distutils/command/install_scripts.py",
+      "size": 2132
+    },
+    {
+      "name": "bin/Lib/distutils/command/register.py",
+      "size": 12154
+    },
+    {
+      "name": "bin/Lib/distutils/command/sdist.py",
+      "size": 19034
+    },
+    {
+      "name": "bin/Lib/distutils/command/upload.py",
+      "size": 7196
+    },
+    {
+      "name": "bin/Lib/distutils/command/wininst-6.0.exe",
+      "size": 61440
+    },
+    {
+      "name": "bin/Lib/distutils/command/wininst-7.1.exe",
+      "size": 65536
+    },
+    {
+      "name": "bin/Lib/distutils/command/wininst-8.0.exe",
+      "size": 61440
+    },
+    {
+      "name": "bin/Lib/distutils/command/wininst-9.0-amd64.exe",
+      "size": 223744
+    },
+    {
+      "name": "bin/Lib/distutils/command/wininst-9.0.exe",
+      "size": 196096
+    },
+    {
+      "name": "bin/Lib/distutils/config.py",
+      "size": 4246
+    },
+    {
+      "name": "bin/Lib/distutils/core.py",
+      "size": 9335
+    },
+    {
+      "name": "bin/Lib/distutils/cygwinccompiler.py",
+      "size": 18195
+    },
+    {
+      "name": "bin/Lib/distutils/debug.py",
+      "size": 169
+    },
+    {
+      "name": "bin/Lib/distutils/dep_util.py",
+      "size": 3598
+    },
+    {
+      "name": "bin/Lib/distutils/dir_util.py",
+      "size": 8184
+    },
+    {
+      "name": "bin/Lib/distutils/dist.py",
+      "size": 51298
+    },
+    {
+      "name": "bin/Lib/distutils/emxccompiler.py",
+      "size": 12250
+    },
+    {
+      "name": "bin/Lib/distutils/errors.py",
+      "size": 3582
+    },
+    {
+      "name": "bin/Lib/distutils/extension.py",
+      "size": 11159
+    },
+    {
+      "name": "bin/Lib/distutils/fancy_getopt.py",
+      "size": 18432
+    },
+    {
+      "name": "bin/Lib/distutils/file_util.py",
+      "size": 8026
+    },
+    {
+      "name": "bin/Lib/distutils/filelist.py",
+      "size": 13032
+    },
+    {
+      "name": "bin/Lib/distutils/log.py",
+      "size": 1757
+    },
+    {
+      "name": "bin/Lib/distutils/msvc9compiler.py",
+      "size": 31819
+    },
+    {
+      "name": "bin/Lib/distutils/msvccompiler.py",
+      "size": 24296
+    },
+    {
+      "name": "bin/Lib/distutils/spawn.py",
+      "size": 7989
+    },
+    {
+      "name": "bin/Lib/distutils/sysconfig.py",
+      "size": 17520
+    },
+    {
+      "name": "bin/Lib/distutils/text_file.py",
+      "size": 12714
+    },
+    {
+      "name": "bin/Lib/distutils/unixccompiler.py",
+      "size": 12602
+    },
+    {
+      "name": "bin/Lib/distutils/util.py",
+      "size": 19215
+    },
+    {
+      "name": "bin/Lib/distutils/version.py",
+      "size": 11732
+    },
+    {
+      "name": "bin/Lib/distutils/versionpredicate.py",
+      "size": 5259
+    },
+    {
+      "name": "bin/Lib/doctest.py",
+      "size": 107252
+    },
+    {
+      "name": "bin/Lib/dumbdbm.py",
+      "size": 9070
+    },
+    {
+      "name": "bin/Lib/dummy_thread.py",
+      "size": 4563
+    },
+    {
+      "name": "bin/Lib/dummy_threading.py",
+      "size": 2882
+    },
+    {
+      "name": "bin/Lib/email/__init__.py",
+      "size": 2979
+    },
+    {
+      "name": "bin/Lib/email/_parseaddr.py",
+      "size": 16230
+    },
+    {
+      "name": "bin/Lib/email/base64mime.py",
+      "size": 5977
+    },
+    {
+      "name": "bin/Lib/email/charset.py",
+      "size": 16441
+    },
+    {
+      "name": "bin/Lib/email/encoders.py",
+      "size": 2097
+    },
+    {
+      "name": "bin/Lib/email/errors.py",
+      "size": 1685
+    },
+    {
+      "name": "bin/Lib/email/feedparser.py",
+      "size": 21090
+    },
+    {
+      "name": "bin/Lib/email/generator.py",
+      "size": 14600
+    },
+    {
+      "name": "bin/Lib/email/header.py",
+      "size": 22757
+    },
+    {
+      "name": "bin/Lib/email/iterators.py",
+      "size": 2275
+    },
+    {
+      "name": "bin/Lib/email/message.py",
+      "size": 31517
+    },
+    {
+      "name": "bin/Lib/email/mime/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/email/mime/application.py",
+      "size": 1292
+    },
+    {
+      "name": "bin/Lib/email/mime/audio.py",
+      "size": 2756
+    },
+    {
+      "name": "bin/Lib/email/mime/base.py",
+      "size": 820
+    },
+    {
+      "name": "bin/Lib/email/mime/image.py",
+      "size": 1810
+    },
+    {
+      "name": "bin/Lib/email/mime/message.py",
+      "size": 1320
+    },
+    {
+      "name": "bin/Lib/email/mime/multipart.py",
+      "size": 1620
+    },
+    {
+      "name": "bin/Lib/email/mime/nonmultipart.py",
+      "size": 711
+    },
+    {
+      "name": "bin/Lib/email/mime/text.py",
+      "size": 1036
+    },
+    {
+      "name": "bin/Lib/email/parser.py",
+      "size": 3391
+    },
+    {
+      "name": "bin/Lib/email/quoprimime.py",
+      "size": 11184
+    },
+    {
+      "name": "bin/Lib/email/utils.py",
+      "size": 10187
+    },
+    {
+      "name": "bin/Lib/encodings/__init__.py",
+      "size": 5855
+    },
+    {
+      "name": "bin/Lib/encodings/__init__.pyc",
+      "size": 4394
+    },
+    {
+      "name": "bin/Lib/encodings/__init__.pyo",
+      "size": 4358
+    },
+    {
+      "name": "bin/Lib/encodings/aliases.py",
+      "size": 15375
+    },
+    {
+      "name": "bin/Lib/encodings/aliases.pyc",
+      "size": 8774
+    },
+    {
+      "name": "bin/Lib/encodings/aliases.pyo",
+      "size": 8765
+    },
+    {
+      "name": "bin/Lib/encodings/ascii.py",
+      "size": 1298
+    },
+    {
+      "name": "bin/Lib/encodings/base64_codec.py",
+      "size": 2417
+    },
+    {
+      "name": "bin/Lib/encodings/big5.py",
+      "size": 1058
+    },
+    {
+      "name": "bin/Lib/encodings/big5hkscs.py",
+      "size": 1078
+    },
+    {
+      "name": "bin/Lib/encodings/bz2_codec.py",
+      "size": 3095
+    },
+    {
+      "name": "bin/Lib/encodings/charmap.py",
+      "size": 2153
+    },
+    {
+      "name": "bin/Lib/encodings/cp037.py",
+      "size": 13684
+    },
+    {
+      "name": "bin/Lib/encodings/cp1006.py",
+      "size": 14131
+    },
+    {
+      "name": "bin/Lib/encodings/cp1026.py",
+      "size": 13676
+    },
+    {
+      "name": "bin/Lib/encodings/cp1140.py",
+      "size": 13668
+    },
+    {
+      "name": "bin/Lib/encodings/cp1250.py",
+      "size": 14249
+    },
+    {
+      "name": "bin/Lib/encodings/cp1251.py",
+      "size": 13924
+    },
+    {
+      "name": "bin/Lib/encodings/cp1252.py",
+      "size": 14074
+    },
+    {
+      "name": "bin/Lib/encodings/cp1252.pyc",
+      "size": 2940
+    },
+    {
+      "name": "bin/Lib/encodings/cp1252.pyo",
+      "size": 2841
+    },
+    {
+      "name": "bin/Lib/encodings/cp1253.py",
+      "size": 13657
+    },
+    {
+      "name": "bin/Lib/encodings/cp1254.py",
+      "size": 14065
+    },
+    {
+      "name": "bin/Lib/encodings/cp1255.py",
+      "size": 13029
+    },
+    {
+      "name": "bin/Lib/encodings/cp1256.py",
+      "size": 13377
+    },
+    {
+      "name": "bin/Lib/encodings/cp1257.py",
+      "size": 13937
+    },
+    {
+      "name": "bin/Lib/encodings/cp1258.py",
+      "size": 13927
+    },
+    {
+      "name": "bin/Lib/encodings/cp424.py",
+      "size": 12618
+    },
+    {
+      "name": "bin/Lib/encodings/cp437.py",
+      "size": 35518
+    },
+    {
+      "name": "bin/Lib/encodings/cp500.py",
+      "size": 13684
+    },
+    {
+      "name": "bin/Lib/encodings/cp720.py",
+      "size": 14003
+    },
+    {
+      "name": "bin/Lib/encodings/cp737.py",
+      "size": 35635
+    },
+    {
+      "name": "bin/Lib/encodings/cp775.py",
+      "size": 35429
+    },
+    {
+      "name": "bin/Lib/encodings/cp850.py",
+      "size": 35059
+    },
+    {
+      "name": "bin/Lib/encodings/cp850.pyc",
+      "size": 7885
+    },
+    {
+      "name": "bin/Lib/encodings/cp852.py",
+      "size": 35956
+    },
+    {
+      "name": "bin/Lib/encodings/cp855.py",
+      "size": 34804
+    },
+    {
+      "name": "bin/Lib/encodings/cp856.py",
+      "size": 12986
+    },
+    {
+      "name": "bin/Lib/encodings/cp857.py",
+      "size": 34858
+    },
+    {
+      "name": "bin/Lib/encodings/cp858.py",
+      "size": 34969
+    },
+    {
+      "name": "bin/Lib/encodings/cp860.py",
+      "size": 35635
+    },
+    {
+      "name": "bin/Lib/encodings/cp861.py",
+      "size": 35587
+    },
+    {
+      "name": "bin/Lib/encodings/cp862.py",
+      "size": 34324
+    },
+    {
+      "name": "bin/Lib/encodings/cp863.py",
+      "size": 35206
+    },
+    {
+      "name": "bin/Lib/encodings/cp864.py",
+      "size": 34609
+    },
+    {
+      "name": "bin/Lib/encodings/cp865.py",
+      "size": 35572
+    },
+    {
+      "name": "bin/Lib/encodings/cp866.py",
+      "size": 35350
+    },
+    {
+      "name": "bin/Lib/encodings/cp869.py",
+      "size": 33910
+    },
+    {
+      "name": "bin/Lib/encodings/cp874.py",
+      "size": 13158
+    },
+    {
+      "name": "bin/Lib/encodings/cp875.py",
+      "size": 13417
+    },
+    {
+      "name": "bin/Lib/encodings/cp932.py",
+      "size": 1062
+    },
+    {
+      "name": "bin/Lib/encodings/cp949.py",
+      "size": 1062
+    },
+    {
+      "name": "bin/Lib/encodings/cp950.py",
+      "size": 1062
+    },
+    {
+      "name": "bin/Lib/encodings/euc_jis_2004.py",
+      "size": 1090
+    },
+    {
+      "name": "bin/Lib/encodings/euc_jisx0213.py",
+      "size": 1090
+    },
+    {
+      "name": "bin/Lib/encodings/euc_jp.py",
+      "size": 1066
+    },
+    {
+      "name": "bin/Lib/encodings/euc_kr.py",
+      "size": 1066
+    },
+    {
+      "name": "bin/Lib/encodings/gb18030.py",
+      "size": 1070
+    },
+    {
+      "name": "bin/Lib/encodings/gb2312.py",
+      "size": 1066
+    },
+    {
+      "name": "bin/Lib/encodings/gbk.py",
+      "size": 1054
+    },
+    {
+      "name": "bin/Lib/encodings/hex_codec.py",
+      "size": 2388
+    },
+    {
+      "name": "bin/Lib/encodings/hp_roman8.py",
+      "size": 7543
+    },
+    {
+      "name": "bin/Lib/encodings/hz.py",
+      "size": 1050
+    },
+    {
+      "name": "bin/Lib/encodings/idna.py",
+      "size": 8762
+    },
+    {
+      "name": "bin/Lib/encodings/iso2022_jp.py",
+      "size": 1092
+    },
+    {
+      "name": "bin/Lib/encodings/iso2022_jp_1.py",
+      "size": 1100
+    },
+    {
+      "name": "bin/Lib/encodings/iso2022_jp_2.py",
+      "size": 1100
+    },
+    {
+      "name": "bin/Lib/encodings/iso2022_jp_2004.py",
+      "size": 1112
+    },
+    {
+      "name": "bin/Lib/encodings/iso2022_jp_3.py",
+      "size": 1100
+    },
+    {
+      "name": "bin/Lib/encodings/iso2022_jp_ext.py",
+      "size": 1108
+    },
+    {
+      "name": "bin/Lib/encodings/iso2022_kr.py",
+      "size": 1092
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_1.py",
+      "size": 13739
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_10.py",
+      "size": 14152
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_11.py",
+      "size": 12898
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_13.py",
+      "size": 13834
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_14.py",
+      "size": 14215
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_15.py",
+      "size": 13775
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_16.py",
+      "size": 14120
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_2.py",
+      "size": 13967
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_3.py",
+      "size": 13652
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_4.py",
+      "size": 13939
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_5.py",
+      "size": 13578
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_6.py",
+      "size": 11396
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_7.py",
+      "size": 13407
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_8.py",
+      "size": 11599
+    },
+    {
+      "name": "bin/Lib/encodings/iso8859_9.py",
+      "size": 13719
+    },
+    {
+      "name": "bin/Lib/encodings/johab.py",
+      "size": 1062
+    },
+    {
+      "name": "bin/Lib/encodings/koi8_r.py",
+      "size": 14342
+    },
+    {
+      "name": "bin/Lib/encodings/koi8_u.py",
+      "size": 14325
+    },
+    {
+      "name": "bin/Lib/encodings/latin_1.py",
+      "size": 1314
+    },
+    {
+      "name": "bin/Lib/encodings/mac_arabic.py",
+      "size": 37421
+    },
+    {
+      "name": "bin/Lib/encodings/mac_centeuro.py",
+      "size": 14665
+    },
+    {
+      "name": "bin/Lib/encodings/mac_croatian.py",
+      "size": 14196
+    },
+    {
+      "name": "bin/Lib/encodings/mac_cyrillic.py",
+      "size": 14017
+    },
+    {
+      "name": "bin/Lib/encodings/mac_farsi.py",
+      "size": 15733
+    },
+    {
+      "name": "bin/Lib/encodings/mac_greek.py",
+      "size": 14284
+    },
+    {
+      "name": "bin/Lib/encodings/mac_iceland.py",
+      "size": 14061
+    },
+    {
+      "name": "bin/Lib/encodings/mac_latin2.py",
+      "size": 8748
+    },
+    {
+      "name": "bin/Lib/encodings/mac_roman.py",
+      "size": 14043
+    },
+    {
+      "name": "bin/Lib/encodings/mac_romanian.py",
+      "size": 14224
+    },
+    {
+      "name": "bin/Lib/encodings/mac_turkish.py",
+      "size": 14076
+    },
+    {
+      "name": "bin/Lib/encodings/mbcs.py",
+      "size": 1258
+    },
+    {
+      "name": "bin/Lib/encodings/palmos.py",
+      "size": 3019
+    },
+    {
+      "name": "bin/Lib/encodings/ptcp154.py",
+      "size": 9125
+    },
+    {
+      "name": "bin/Lib/encodings/punycode.py",
+      "size": 7051
+    },
+    {
+      "name": "bin/Lib/encodings/quopri_codec.py",
+      "size": 2222
+    },
+    {
+      "name": "bin/Lib/encodings/raw_unicode_escape.py",
+      "size": 1253
+    },
+    {
+      "name": "bin/Lib/encodings/rot_13.py",
+      "size": 2697
+    },
+    {
+      "name": "bin/Lib/encodings/shift_jis.py",
+      "size": 1078
+    },
+    {
+      "name": "bin/Lib/encodings/shift_jis_2004.py",
+      "size": 1098
+    },
+    {
+      "name": "bin/Lib/encodings/shift_jisx0213.py",
+      "size": 1098
+    },
+    {
+      "name": "bin/Lib/encodings/string_escape.py",
+      "size": 991
+    },
+    {
+      "name": "bin/Lib/encodings/tis_620.py",
+      "size": 12863
+    },
+    {
+      "name": "bin/Lib/encodings/undefined.py",
+      "size": 1348
+    },
+    {
+      "name": "bin/Lib/encodings/unicode_escape.py",
+      "size": 1229
+    },
+    {
+      "name": "bin/Lib/encodings/unicode_internal.py",
+      "size": 1241
+    },
+    {
+      "name": "bin/Lib/encodings/utf_16.py",
+      "size": 4110
+    },
+    {
+      "name": "bin/Lib/encodings/utf_16_be.py",
+      "size": 1079
+    },
+    {
+      "name": "bin/Lib/encodings/utf_16_le.py",
+      "size": 1079
+    },
+    {
+      "name": "bin/Lib/encodings/utf_32.py",
+      "size": 5277
+    },
+    {
+      "name": "bin/Lib/encodings/utf_32_be.py",
+      "size": 967
+    },
+    {
+      "name": "bin/Lib/encodings/utf_32_le.py",
+      "size": 967
+    },
+    {
+      "name": "bin/Lib/encodings/utf_7.py",
+      "size": 984
+    },
+    {
+      "name": "bin/Lib/encodings/utf_8.py",
+      "size": 1047
+    },
+    {
+      "name": "bin/Lib/encodings/utf_8_sig.py",
+      "size": 3802
+    },
+    {
+      "name": "bin/Lib/encodings/uu_codec.py",
+      "size": 3867
+    },
+    {
+      "name": "bin/Lib/encodings/zlib_codec.py",
+      "size": 3117
+    },
+    {
+      "name": "bin/Lib/filecmp.py",
+      "size": 9884
+    },
+    {
+      "name": "bin/Lib/fileinput.py",
+      "size": 14485
+    },
+    {
+      "name": "bin/Lib/fnmatch.py",
+      "size": 3355
+    },
+    {
+      "name": "bin/Lib/formatter.py",
+      "size": 15356
+    },
+    {
+      "name": "bin/Lib/fpformat.py",
+      "size": 4844
+    },
+    {
+      "name": "bin/Lib/fractions.py",
+      "size": 22995
+    },
+    {
+      "name": "bin/Lib/ftplib.py",
+      "size": 38027
+    },
+    {
+      "name": "bin/Lib/functools.py",
+      "size": 4578
+    },
+    {
+      "name": "bin/Lib/functools.pyc",
+      "size": 6193
+    },
+    {
+      "name": "bin/Lib/functools.pyo",
+      "size": 5959
+    },
+    {
+      "name": "bin/Lib/genericpath.py",
+      "size": 3119
+    },
+    {
+      "name": "bin/Lib/genericpath.pyc",
+      "size": 3303
+    },
+    {
+      "name": "bin/Lib/genericpath.pyo",
+      "size": 3213
+    },
+    {
+      "name": "bin/Lib/getopt.py",
+      "size": 7528
+    },
+    {
+      "name": "bin/Lib/getpass.py",
+      "size": 5742
+    },
+    {
+      "name": "bin/Lib/gettext.py",
+      "size": 20450
+    },
+    {
+      "name": "bin/Lib/glob.py",
+      "size": 3023
+    },
+    {
+      "name": "bin/Lib/gzip.py",
+      "size": 19212
+    },
+    {
+      "name": "bin/Lib/hashlib.py",
+      "size": 5157
+    },
+    {
+      "name": "bin/Lib/heapq.py",
+      "size": 18781
+    },
+    {
+      "name": "bin/Lib/heapq.pyc",
+      "size": 14636
+    },
+    {
+      "name": "bin/Lib/hmac.py",
+      "size": 4664
+    },
+    {
+      "name": "bin/Lib/hotshot/__init__.py",
+      "size": 2748
+    },
+    {
+      "name": "bin/Lib/hotshot/log.py",
+      "size": 6433
+    },
+    {
+      "name": "bin/Lib/hotshot/stats.py",
+      "size": 2675
+    },
+    {
+      "name": "bin/Lib/hotshot/stones.py",
+      "size": 797
+    },
+    {
+      "name": "bin/Lib/htmlentitydefs.py",
+      "size": 18327
+    },
+    {
+      "name": "bin/Lib/htmllib.py",
+      "size": 13360
+    },
+    {
+      "name": "bin/Lib/httplib.py",
+      "size": 48327
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/README.txt",
+      "size": 4627
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/__init__.py",
+      "size": 365
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/mock_idle.py",
+      "size": 807
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/mock_tk.py",
+      "size": 10943
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_calltips.py",
+      "size": 756
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_config_name.py",
+      "size": 2506
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_delegator.py",
+      "size": 1331
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_formatparagraph.py",
+      "size": 14620
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_grep.py",
+      "size": 2844
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_idlehistory.py",
+      "size": 5612
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_pathbrowser.py",
+      "size": 356
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_rstrip.py",
+      "size": 1662
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_searchengine.py",
+      "size": 11743
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_text.py",
+      "size": 6971
+    },
+    {
+      "name": "bin/Lib/idlelib/idle_test/test_warning.py",
+      "size": 2830
+    },
+    {
+      "name": "bin/Lib/ihooks.py",
+      "size": 19540
+    },
+    {
+      "name": "bin/Lib/imaplib.py",
+      "size": 49183
+    },
+    {
+      "name": "bin/Lib/imghdr.py",
+      "size": 3705
+    },
+    {
+      "name": "bin/Lib/importlib/__init__.py",
+      "size": 1365
+    },
+    {
+      "name": "bin/Lib/imputil.py",
+      "size": 26489
+    },
+    {
+      "name": "bin/Lib/inspect.py",
+      "size": 43572
+    },
+    {
+      "name": "bin/Lib/io.py",
+      "size": 3286
+    },
+    {
+      "name": "bin/Lib/json/__init__.py",
+      "size": 15101
+    },
+    {
+      "name": "bin/Lib/json/decoder.py",
+      "size": 14266
+    },
+    {
+      "name": "bin/Lib/json/encoder.py",
+      "size": 16837
+    },
+    {
+      "name": "bin/Lib/json/scanner.py",
+      "size": 2364
+    },
+    {
+      "name": "bin/Lib/json/tool.py",
+      "size": 1037
+    },
+    {
+      "name": "bin/Lib/keyword.py",
+      "size": 2089
+    },
+    {
+      "name": "bin/Lib/keyword.pyc",
+      "size": 2113
+    },
+    {
+      "name": "bin/Lib/lib2to3/Grammar.txt",
+      "size": 6747
+    },
+    {
+      "name": "bin/Lib/lib2to3/PatternGrammar.txt",
+      "size": 821
+    },
+    {
+      "name": "bin/Lib/lib2to3/__init__.py",
+      "size": 8
+    },
+    {
+      "name": "bin/Lib/lib2to3/__main__.py",
+      "size": 71
+    },
+    {
+      "name": "bin/Lib/lib2to3/btm_matcher.py",
+      "size": 7002
+    },
+    {
+      "name": "bin/Lib/lib2to3/btm_utils.py",
+      "size": 10294
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixer_base.py",
+      "size": 7035
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixer_util.py",
+      "size": 15029
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/__init__.py",
+      "size": 48
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_apply.py",
+      "size": 1963
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_basestring.py",
+      "size": 335
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_buffer.py",
+      "size": 613
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_callable.py",
+      "size": 1193
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_dict.py",
+      "size": 3931
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_except.py",
+      "size": 3445
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_exec.py",
+      "size": 1042
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_execfile.py",
+      "size": 2050
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_exitfunc.py",
+      "size": 2577
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_filter.py",
+      "size": 2183
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_funcattrs.py",
+      "size": 666
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_future.py",
+      "size": 569
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_getcwdu.py",
+      "size": 471
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_has_key.py",
+      "size": 3337
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_idioms.py",
+      "size": 5041
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_import.py",
+      "size": 3358
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_imports.py",
+      "size": 5838
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_imports2.py",
+      "size": 305
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_input.py",
+      "size": 735
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_intern.py",
+      "size": 1451
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_isinstance.py",
+      "size": 1661
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_itertools.py",
+      "size": 1593
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_itertools_imports.py",
+      "size": 2151
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_long.py",
+      "size": 496
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_map.py",
+      "size": 3153
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_metaclass.py",
+      "size": 8442
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_methodattrs.py",
+      "size": 639
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_ne.py",
+      "size": 596
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_next.py",
+      "size": 3284
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_nonzero.py",
+      "size": 619
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_numliterals.py",
+      "size": 801
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_operator.py",
+      "size": 3568
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_paren.py",
+      "size": 1272
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_print.py",
+      "size": 2952
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_raise.py",
+      "size": 3024
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_raw_input.py",
+      "size": 472
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_reduce.py",
+      "size": 874
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_renames.py",
+      "size": 2288
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_repr.py",
+      "size": 637
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_set_literal.py",
+      "size": 1752
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_standarderror.py",
+      "size": 468
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_sys_exc.py",
+      "size": 1069
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_throw.py",
+      "size": 1642
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_tuple_params.py",
+      "size": 5752
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_types.py",
+      "size": 1868
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_unicode.py",
+      "size": 1311
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_urllib.py",
+      "size": 8582
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_ws_comma.py",
+      "size": 1134
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_xrange.py",
+      "size": 2772
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_xreadlines.py",
+      "size": 715
+    },
+    {
+      "name": "bin/Lib/lib2to3/fixes/fix_zip.py",
+      "size": 939
+    },
+    {
+      "name": "bin/Lib/lib2to3/main.py",
+      "size": 11874
+    },
+    {
+      "name": "bin/Lib/lib2to3/patcomp.py",
+      "size": 7296
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/__init__.py",
+      "size": 147
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/conv.py",
+      "size": 9884
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/driver.py",
+      "size": 5321
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/grammar.py",
+      "size": 5547
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/literals.py",
+      "size": 1674
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/parse.py",
+      "size": 8254
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/pgen.py",
+      "size": 14172
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/token.py",
+      "size": 1326
+    },
+    {
+      "name": "bin/Lib/lib2to3/pgen2/tokenize.py",
+      "size": 19624
+    },
+    {
+      "name": "bin/Lib/lib2to3/pygram.py",
+      "size": 1158
+    },
+    {
+      "name": "bin/Lib/lib2to3/pytree.py",
+      "size": 29926
+    },
+    {
+      "name": "bin/Lib/lib2to3/refactor.py",
+      "size": 28815
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/bad_order.py",
+      "size": 94
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/myfixes/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/myfixes/fix_explicit.py",
+      "size": 129
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/myfixes/fix_first.py",
+      "size": 130
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/myfixes/fix_last.py",
+      "size": 132
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/myfixes/fix_parrot.py",
+      "size": 360
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/myfixes/fix_preorder.py",
+      "size": 133
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/no_fixer_cls.py",
+      "size": 76
+    },
+    {
+      "name": "bin/Lib/lib2to3/tests/data/fixers/parrot_example.py",
+      "size": 25
+    },
+    {
+      "name": "bin/Lib/linecache.py",
+      "size": 4099
+    },
+    {
+      "name": "bin/Lib/linecache.pyc",
+      "size": 3235
+    },
+    {
+      "name": "bin/Lib/linecache.pyo",
+      "size": 3181
+    },
+    {
+      "name": "bin/Lib/locale.py",
+      "size": 91310
+    },
+    {
+      "name": "bin/Lib/locale.pyc",
+      "size": 50065
+    },
+    {
+      "name": "bin/Lib/locale.pyo",
+      "size": 49786
+    },
+    {
+      "name": "bin/Lib/logging/__init__.py",
+      "size": 62011
+    },
+    {
+      "name": "bin/Lib/logging/config.py",
+      "size": 36551
+    },
+    {
+      "name": "bin/Lib/logging/handlers.py",
+      "size": 48701
+    },
+    {
+      "name": "bin/Lib/macpath.py",
+      "size": 6467
+    },
+    {
+      "name": "bin/Lib/macurl2path.py",
+      "size": 2808
+    },
+    {
+      "name": "bin/Lib/mailbox.py",
+      "size": 83407
+    },
+    {
+      "name": "bin/Lib/mailcap.py",
+      "size": 7682
+    },
+    {
+      "name": "bin/Lib/markupbase.py",
+      "size": 15039
+    },
+    {
+      "name": "bin/Lib/md5.py",
+      "size": 372
+    },
+    {
+      "name": "bin/Lib/mhlib.py",
+      "size": 34439
+    },
+    {
+      "name": "bin/Lib/mimetools.py",
+      "size": 7418
+    },
+    {
+      "name": "bin/Lib/mimetypes.py",
+      "size": 21578
+    },
+    {
+      "name": "bin/Lib/mimify.py",
+      "size": 15489
+    },
+    {
+      "name": "bin/Lib/modulefinder.py",
+      "size": 24954
+    },
+    {
+      "name": "bin/Lib/msilib/__init__.py",
+      "size": 18050
+    },
+    {
+      "name": "bin/Lib/msilib/schema.py",
+      "size": 84729
+    },
+    {
+      "name": "bin/Lib/msilib/sequence.py",
+      "size": 4174
+    },
+    {
+      "name": "bin/Lib/msilib/text.py",
+      "size": 9442
+    },
+    {
+      "name": "bin/Lib/multifile.py",
+      "size": 4982
+    },
+    {
+      "name": "bin/Lib/multiprocessing/__init__.py",
+      "size": 8082
+    },
+    {
+      "name": "bin/Lib/multiprocessing/connection.py",
+      "size": 15105
+    },
+    {
+      "name": "bin/Lib/multiprocessing/dummy/__init__.py",
+      "size": 4634
+    },
+    {
+      "name": "bin/Lib/multiprocessing/dummy/connection.py",
+      "size": 2894
+    },
+    {
+      "name": "bin/Lib/multiprocessing/forking.py",
+      "size": 16827
+    },
+    {
+      "name": "bin/Lib/multiprocessing/heap.py",
+      "size": 8835
+    },
+    {
+      "name": "bin/Lib/multiprocessing/managers.py",
+      "size": 37751
+    },
+    {
+      "name": "bin/Lib/multiprocessing/pool.py",
+      "size": 24170
+    },
+    {
+      "name": "bin/Lib/multiprocessing/process.py",
+      "size": 9730
+    },
+    {
+      "name": "bin/Lib/multiprocessing/queues.py",
+      "size": 12711
+    },
+    {
+      "name": "bin/Lib/multiprocessing/reduction.py",
+      "size": 6797
+    },
+    {
+      "name": "bin/Lib/multiprocessing/sharedctypes.py",
+      "size": 7963
+    },
+    {
+      "name": "bin/Lib/multiprocessing/synchronize.py",
+      "size": 10998
+    },
+    {
+      "name": "bin/Lib/multiprocessing/util.py",
+      "size": 10997
+    },
+    {
+      "name": "bin/Lib/mutex.py",
+      "size": 1932
+    },
+    {
+      "name": "bin/Lib/netrc.py",
+      "size": 6010
+    },
+    {
+      "name": "bin/Lib/new.py",
+      "size": 627
+    },
+    {
+      "name": "bin/Lib/nntplib.py",
+      "size": 22106
+    },
+    {
+      "name": "bin/Lib/ntpath.py",
+      "size": 18990
+    },
+    {
+      "name": "bin/Lib/ntpath.pyc",
+      "size": 11961
+    },
+    {
+      "name": "bin/Lib/ntpath.pyo",
+      "size": 11736
+    },
+    {
+      "name": "bin/Lib/nturl2path.py",
+      "size": 2437
+    },
+    {
+      "name": "bin/Lib/numbers.py",
+      "size": 10710
+    },
+    {
+      "name": "bin/Lib/opcode.py",
+      "size": 5666
+    },
+    {
+      "name": "bin/Lib/optparse.py",
+      "size": 62828
+    },
+    {
+      "name": "bin/Lib/os.py",
+      "size": 26509
+    },
+    {
+      "name": "bin/Lib/os.pyc",
+      "size": 25769
+    },
+    {
+      "name": "bin/Lib/os.pyo",
+      "size": 25292
+    },
+    {
+      "name": "bin/Lib/os2emxpath.py",
+      "size": 4762
+    },
+    {
+      "name": "bin/Lib/pdb.py",
+      "size": 47351
+    },
+    {
+      "name": "bin/Lib/pickle.py",
+      "size": 46542
+    },
+    {
+      "name": "bin/Lib/pickletools.py",
+      "size": 76815
+    },
+    {
+      "name": "bin/Lib/pipes.py",
+      "size": 9860
+    },
+    {
+      "name": "bin/Lib/pkgutil.py",
+      "size": 20937
+    },
+    {
+      "name": "bin/Lib/platform.py",
+      "size": 55209
+    },
+    {
+      "name": "bin/Lib/plistlib.py",
+      "size": 15659
+    },
+    {
+      "name": "bin/Lib/popen2.py",
+      "size": 8617
+    },
+    {
+      "name": "bin/Lib/poplib.py",
+      "size": 12804
+    },
+    {
+      "name": "bin/Lib/posixfile.py",
+      "size": 8240
+    },
+    {
+      "name": "bin/Lib/posixpath.py",
+      "size": 14022
+    },
+    {
+      "name": "bin/Lib/pprint.py",
+      "size": 12123
+    },
+    {
+      "name": "bin/Lib/profile.py",
+      "size": 23392
+    },
+    {
+      "name": "bin/Lib/pstats.py",
+      "size": 27416
+    },
+    {
+      "name": "bin/Lib/pty.py",
+      "size": 5238
+    },
+    {
+      "name": "bin/Lib/py_compile.py",
+      "size": 6097
+    },
+    {
+      "name": "bin/Lib/py_compile.pyo",
+      "size": 6389
+    },
+    {
+      "name": "bin/Lib/pyclbr.py",
+      "size": 13732
+    },
+    {
+      "name": "bin/Lib/pydoc.py",
+      "size": 95949
+    },
+    {
+      "name": "bin/Lib/pydoc_data/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/pydoc_data/topics.py",
+      "size": 410525
+    },
+    {
+      "name": "bin/Lib/quopri.py",
+      "size": 7206
+    },
+    {
+      "name": "bin/Lib/random.py",
+      "size": 33034
+    },
+    {
+      "name": "bin/Lib/re.py",
+      "size": 13283
+    },
+    {
+      "name": "bin/Lib/re.pyc",
+      "size": 13178
+    },
+    {
+      "name": "bin/Lib/re.pyo",
+      "size": 12989
+    },
+    {
+      "name": "bin/Lib/repr.py",
+      "size": 4428
+    },
+    {
+      "name": "bin/Lib/rexec.py",
+      "size": 20736
+    },
+    {
+      "name": "bin/Lib/rfc822.py",
+      "size": 34306
+    },
+    {
+      "name": "bin/Lib/rlcompleter.py",
+      "size": 5982
+    },
+    {
+      "name": "bin/Lib/robotparser.py",
+      "size": 7485
+    },
+    {
+      "name": "bin/Lib/runpy.py",
+      "size": 10976
+    },
+    {
+      "name": "bin/Lib/sched.py",
+      "size": 5222
+    },
+    {
+      "name": "bin/Lib/sets.py",
+      "size": 19607
+    },
+    {
+      "name": "bin/Lib/sgmllib.py",
+      "size": 18437
+    },
+    {
+      "name": "bin/Lib/sha.py",
+      "size": 408
+    },
+    {
+      "name": "bin/Lib/shelve.py",
+      "size": 8317
+    },
+    {
+      "name": "bin/Lib/shlex.py",
+      "size": 11429
+    },
+    {
+      "name": "bin/Lib/shutil.py",
+      "size": 18991
+    },
+    {
+      "name": "bin/Lib/site-packages/README.txt",
+      "size": 121
+    },
+    {
+      "name": "bin/Lib/site-packages/_psutil_mswindows.pyd",
+      "size": 36352
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/__init__.py",
+      "size": 45
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/__init__.pyo",
+      "size": 205
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/ado_consts.py",
+      "size": 10850
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/ado_consts.pyo",
+      "size": 6065
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/adodbapi.py",
+      "size": 62648
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/adodbapi.pyo",
+      "size": 54205
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/license.txt",
+      "size": 26929
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/readme.txt",
+      "size": 11597
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/adodbapitest.py",
+      "size": 36374
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/adodbapitest.pyo",
+      "size": 34550
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/adodbapitestconfig.py",
+      "size": 5491
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/adodbapitestconfig.pyo",
+      "size": 3553
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/db_print.py",
+      "size": 3275
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/db_print.pyo",
+      "size": 2055
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/dbapi20.py",
+      "size": 32952
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/dbapi20.pyo",
+      "size": 25625
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/testADOdbapi.py",
+      "size": 35962
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/testADOdbapi.pyo",
+      "size": 34834
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/testADOdbapiConfig.py",
+      "size": 5553
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/testADOdbapiConfig.pyo",
+      "size": 3546
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/test_adodbapi_dbapi20.py",
+      "size": 4000
+    },
+    {
+      "name": "bin/Lib/site-packages/adodbapi/tests/test_adodbapi_dbapi20.pyo",
+      "size": 4476
+    },
+    {
+      "name": "bin/Lib/site-packages/easy-install.pth",
+      "size": 217
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/PyISAPI_loader.dll",
+      "size": 44032
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/README.txt",
+      "size": 329
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/__init__.py",
+      "size": 1273
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/__init__.pyo",
+      "size": 1550
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/doc/isapi.html",
+      "size": 4252
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/install.py",
+      "size": 28326
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/install.pyo",
+      "size": 24468
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/isapicon.py",
+      "size": 5341
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/isapicon.pyo",
+      "size": 3456
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/README.txt",
+      "size": 1027
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/advanced.py",
+      "size": 8264
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/advanced.pyo",
+      "size": 5665
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/redirector.py",
+      "size": 4815
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/redirector.pyo",
+      "size": 3090
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/redirector_asynch.py",
+      "size": 2850
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/redirector_asynch.pyo",
+      "size": 2464
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/redirector_with_filter.py",
+      "size": 6735
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/redirector_with_filter.pyo",
+      "size": 3455
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/test.py",
+      "size": 6450
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/samples/test.pyo",
+      "size": 5749
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/simple.py",
+      "size": 2558
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/simple.pyo",
+      "size": 3657
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/test/README.txt",
+      "size": 113
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/test/extension_simple.py",
+      "size": 4545
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/test/extension_simple.pyo",
+      "size": 3771
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/threaded_extension.py",
+      "size": 7839
+    },
+    {
+      "name": "bin/Lib/site-packages/isapi/threaded_extension.pyo",
+      "size": 6604
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/__init__.py",
+      "size": 8049
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/__main__.py",
+      "size": 116
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/backwardcompat/__init__.py",
+      "size": 3119
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/backwardcompat/ssl_match_hostname.py",
+      "size": 2552
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/basecommand.py",
+      "size": 7011
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/baseparser.py",
+      "size": 12035
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/cacert.pem",
+      "size": 251338
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/cmdoptions.py",
+      "size": 5280
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/__init__.py",
+      "size": 2236
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/bundle.py",
+      "size": 2156
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/completion.py",
+      "size": 1838
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/freeze.py",
+      "size": 4646
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/help.py",
+      "size": 958
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/install.py",
+      "size": 10903
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/list.py",
+      "size": 6158
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/search.py",
+      "size": 4717
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/show.py",
+      "size": 2749
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/uninstall.py",
+      "size": 2079
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/unzip.py",
+      "size": 173
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/wheel.py",
+      "size": 5995
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/commands/zip.py",
+      "size": 14675
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/download.py",
+      "size": 23555
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/exceptions.py",
+      "size": 929
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/index.py",
+      "size": 42347
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/locations.py",
+      "size": 5484
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/log.py",
+      "size": 6371
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/pep425tags.py",
+      "size": 2969
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/req.py",
+      "size": 77505
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/runner.py",
+      "size": 431
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/status_codes.py",
+      "size": 87
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/util.py",
+      "size": 22686
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vcs/__init__.py",
+      "size": 8748
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vcs/bazaar.py",
+      "size": 4945
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vcs/git.py",
+      "size": 7898
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vcs/mercurial.py",
+      "size": 5822
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vcs/subversion.py",
+      "size": 10640
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/__init__.py",
+      "size": 264
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/__init__.py",
+      "size": 534
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/_backport/__init__.py",
+      "size": 274
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/_backport/misc.py",
+      "size": 971
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/_backport/shutil.py",
+      "size": 25650
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/_backport/sysconfig.py",
+      "size": 26913
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/_backport/tarfile.py",
+      "size": 92627
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/compat.py",
+      "size": 26980
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/database.py",
+      "size": 49606
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/index.py",
+      "size": 20911
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/locators.py",
+      "size": 43778
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/manifest.py",
+      "size": 13282
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/markers.py",
+      "size": 6258
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/metadata.py",
+      "size": 25527
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/resources.py",
+      "size": 9481
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/scripts.py",
+      "size": 9291
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/util.py",
+      "size": 42456
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/version.py",
+      "size": 22915
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/distlib/wheel.py",
+      "size": 23490
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/__init__.py",
+      "size": 714
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/constants.py",
+      "size": 86469
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/filters/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/filters/_base.py",
+      "size": 286
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/filters/alphabeticalattributes.py",
+      "size": 624
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/filters/inject_meta_charset.py",
+      "size": 2746
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/filters/lint.py",
+      "size": 4062
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/filters/optionaltags.py",
+      "size": 10500
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/filters/sanitizer.py",
+      "size": 352
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/filters/whitespace.py",
+      "size": 1142
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/html5parser.py",
+      "size": 117499
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/ihatexml.py",
+      "size": 16581
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/inputstream.py",
+      "size": 30601
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/sanitizer.py",
+      "size": 16428
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/serializer/__init__.py",
+      "size": 490
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/serializer/htmlserializer.py",
+      "size": 12467
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/tokenizer.py",
+      "size": 76929
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treebuilders/__init__.py",
+      "size": 3405
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treebuilders/_base.py",
+      "size": 13710
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treebuilders/dom.py",
+      "size": 11328
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treebuilders/etree.py",
+      "size": 12620
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treebuilders/etree_lxml.py",
+      "size": 14031
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treewalkers/__init__.py",
+      "size": 2323
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treewalkers/_base.py",
+      "size": 6717
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treewalkers/dom.py",
+      "size": 1457
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treewalkers/etree.py",
+      "size": 4444
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treewalkers/genshistream.py",
+      "size": 2278
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treewalkers/lxmletree.py",
+      "size": 6214
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/treewalkers/pulldom.py",
+      "size": 2302
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/trie/__init__.py",
+      "size": 212
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/trie/_base.py",
+      "size": 927
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/trie/datrie.py",
+      "size": 1177
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/trie/py.py",
+      "size": 1774
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/html5lib/utils.py",
+      "size": 2413
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/vendor/six.py",
+      "size": 12415
+    },
+    {
+      "name": "bin/Lib/site-packages/pip/wheel.py",
+      "size": 11749
+    },
+    {
+      "name": "bin/Lib/site-packages/pip-1.4.1-py2.7.egg-info/PKG-INFO",
+      "size": 2850
+    },
+    {
+      "name": "bin/Lib/site-packages/pip-1.4.1-py2.7.egg-info/SOURCES.txt",
+      "size": 3174
+    },
+    {
+      "name": "bin/Lib/site-packages/pip-1.4.1-py2.7.egg-info/dependency_links.txt",
+      "size": 1
+    },
+    {
+      "name": "bin/Lib/site-packages/pip-1.4.1-py2.7.egg-info/entry_points.txt",
+      "size": 53
+    },
+    {
+      "name": "bin/Lib/site-packages/pip-1.4.1-py2.7.egg-info/installed-files.txt",
+      "size": 6533
+    },
+    {
+      "name": "bin/Lib/site-packages/pip-1.4.1-py2.7.egg-info/not-zip-safe",
+      "size": 1
+    },
+    {
+      "name": "bin/Lib/site-packages/pip-1.4.1-py2.7.egg-info/requires.txt",
+      "size": 63
+    },
+    {
+      "name": "bin/Lib/site-packages/pip-1.4.1-py2.7.egg-info/top_level.txt",
+      "size": 4
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/__init__.py",
+      "size": 56001
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/__init__.pyc",
+      "size": 50593
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/__init__.pyo",
+      "size": 49819
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_common.py",
+      "size": 5687
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_common.pyc",
+      "size": 7147
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_common.pyo",
+      "size": 7021
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_compat.py",
+      "size": 9689
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_compat.pyc",
+      "size": 10444
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_compat.pyo",
+      "size": 10201
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_error.py",
+      "size": 2130
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_error.pyc",
+      "size": 3176
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_error.pyo",
+      "size": 3077
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psbsd.py",
+      "size": 13091
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psbsd.pyo",
+      "size": 14409
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_pslinux.py",
+      "size": 40705
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_pslinux.pyo",
+      "size": 33118
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psmswindows.py",
+      "size": 17624
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psmswindows.pyc",
+      "size": 18632
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psmswindows.pyo",
+      "size": 18218
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psosx.py",
+      "size": 11288
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psosx.pyo",
+      "size": 13157
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psposix.py",
+      "size": 4860
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_psposix.pyo",
+      "size": 4001
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_pssunos.py",
+      "size": 18275
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/_pssunos.pyo",
+      "size": 16906
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/error.py",
+      "size": 622
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil/error.pyo",
+      "size": 615
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil-1.1.3-py2.7.egg-info/PKG-INFO",
+      "size": 11605
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil-1.1.3-py2.7.egg-info/SOURCES.txt",
+      "size": 1553
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil-1.1.3-py2.7.egg-info/dependency_links.txt",
+      "size": 1
+    },
+    {
+      "name": "bin/Lib/site-packages/psutil-1.1.3-py2.7.egg-info/top_level.txt",
+      "size": 25
+    },
+    {
+      "name": "bin/Lib/site-packages/pythoncom.py",
+      "size": 141
+    },
+    {
+      "name": "bin/Lib/site-packages/pythoncom.pyc",
+      "size": 254
+    },
+    {
+      "name": "bin/Lib/site-packages/pythoncom.pyo",
+      "size": 245
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/Microsoft.VC90.MFC.manifest",
+      "size": 548
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/Pythonwin.exe",
+      "size": 19968
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/dde.pyd",
+      "size": 48640
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/license.txt",
+      "size": 1550
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/mfc90.dll",
+      "size": 1156600
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/mfc90u.dll",
+      "size": 1162744
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/mfcm90.dll",
+      "size": 59904
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/mfcm90u.dll",
+      "size": 59904
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/basictimerapp.py",
+      "size": 6596
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/basictimerapp.pyo",
+      "size": 11152
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/customprint.py",
+      "size": 6601
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/customprint.pyo",
+      "size": 8142
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/demoutils.py",
+      "size": 1361
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/demoutils.pyo",
+      "size": 2057
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/dlgappdemo.py",
+      "size": 1284
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/dlgappdemo.pyo",
+      "size": 2298
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/dojobapp.py",
+      "size": 1456
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/dojobapp.pyo",
+      "size": 3041
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/helloapp.py",
+      "size": 1622
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/app/helloapp.pyo",
+      "size": 1596
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/cmdserver.py",
+      "size": 2737
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/cmdserver.pyo",
+      "size": 4118
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/createwin.py",
+      "size": 2549
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/createwin.pyo",
+      "size": 4353
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/demoutils.py",
+      "size": 1408
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/demoutils.pyo",
+      "size": 2079
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/dibdemo.py",
+      "size": 2024
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/dibdemo.pyo",
+      "size": 2969
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/dlgtest.py",
+      "size": 4231
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/dlgtest.pyo",
+      "size": 5081
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/dyndlg.py",
+      "size": 2568
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/dyndlg.pyo",
+      "size": 3236
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/fontdemo.py",
+      "size": 2610
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/fontdemo.pyo",
+      "size": 3140
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/guidemo.py",
+      "size": 2287
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/guidemo.pyo",
+      "size": 3303
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/hiertest.py",
+      "size": 3379
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/hiertest.pyo",
+      "size": 6553
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/menutest.py",
+      "size": 453
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/menutest.pyo",
+      "size": 649
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/objdoc.py",
+      "size": 1604
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/objdoc.pyo",
+      "size": 2704
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/__init__.pyo",
+      "size": 154
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/demoutils.py",
+      "size": 1408
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/demoutils.pyo",
+      "size": 2095
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/flash.py",
+      "size": 2748
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/flash.pyo",
+      "size": 4146
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/msoffice.py",
+      "size": 4548
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/msoffice.pyo",
+      "size": 6525
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/ocxserialtest.py",
+      "size": 3127
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/ocxserialtest.pyo",
+      "size": 4916
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/ocxtest.py",
+      "size": 5659
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/ocxtest.pyo",
+      "size": 9618
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/webbrowser.py",
+      "size": 2077
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/ocx/webbrowser.pyo",
+      "size": 3458
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/openGLDemo.py",
+      "size": 8939
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/openGLDemo.pyo",
+      "size": 12188
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/progressbar.py",
+      "size": 2127
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/progressbar.pyo",
+      "size": 2373
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/sliderdemo.py",
+      "size": 2058
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/sliderdemo.pyo",
+      "size": 2551
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/splittst.py",
+      "size": 2599
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/splittst.pyo",
+      "size": 3712
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/threadedgui.py",
+      "size": 5685
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/threadedgui.pyo",
+      "size": 8419
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/toolbar.py",
+      "size": 2835
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/Demos/toolbar.pyo",
+      "size": 3875
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/IDLE.cfg",
+      "size": 771
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/__init__.py",
+      "size": 485
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/__init__.pyo",
+      "size": 275
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/__init__.py",
+      "size": 2833
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/__init__.pyo",
+      "size": 3813
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/configui.py",
+      "size": 1036
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/configui.pyo",
+      "size": 1734
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/dbgcon.py",
+      "size": 844
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/dbgcon.pyo",
+      "size": 1352
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/dbgpyapp.py",
+      "size": 1463
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/dbgpyapp.pyo",
+      "size": 1830
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/debugger.py",
+      "size": 32318
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/debugger.pyo",
+      "size": 40431
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/fail.py",
+      "size": 872
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/debugger/fail.pyo",
+      "size": 1436
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/default.cfg",
+      "size": 7000
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/__init__.pyo",
+      "size": 152
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/ideoptions.py",
+      "size": 4284
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/ideoptions.pyo",
+      "size": 4909
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/list.py",
+      "size": 3924
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/list.pyo",
+      "size": 6225
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/login.py",
+      "size": 4366
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/login.pyo",
+      "size": 5538
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/status.py",
+      "size": 6055
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/dialogs/status.pyo",
+      "size": 10066
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/docking/DockingBar.py",
+      "size": 19114
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/docking/DockingBar.pyo",
+      "size": 18754
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/docking/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/docking/__init__.pyo",
+      "size": 152
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/__init__.pyo",
+      "size": 154
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/app.py",
+      "size": 14382
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/app.pyo",
+      "size": 17434
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/bitmap.py",
+      "size": 4789
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/bitmap.pyo",
+      "size": 6252
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/cmdline.py",
+      "size": 1213
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/cmdline.pyo",
+      "size": 1616
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/dbgcommands.py",
+      "size": 5917
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/dbgcommands.pyo",
+      "size": 8090
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/dlgappcore.py",
+      "size": 1866
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/dlgappcore.pyo",
+      "size": 3586
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/ModuleBrowser.py",
+      "size": 7079
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/ModuleBrowser.pyo",
+      "size": 11557
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/__init__.py",
+      "size": 2927
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/__init__.pyo",
+      "size": 2154
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/color/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/color/__init__.pyo",
+      "size": 167
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/color/coloreditor.py",
+      "size": 21260
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/color/coloreditor.pyo",
+      "size": 21498
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/configui.py",
+      "size": 10124
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/configui.pyo",
+      "size": 10749
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/document.py",
+      "size": 12190
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/document.pyo",
+      "size": 12316
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/editor.py",
+      "size": 16043
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/editor.pyo",
+      "size": 16793
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/frame.py",
+      "size": 3175
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/frame.pyo",
+      "size": 2488
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/template.py",
+      "size": 1826
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/template.pyo",
+      "size": 3239
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/vss.py",
+      "size": 3080
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/editor/vss.pyo",
+      "size": 2589
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/help.py",
+      "size": 4973
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/help.pyo",
+      "size": 4896
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/interact.py",
+      "size": 30347
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/interact.pyo",
+      "size": 31048
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/intpyapp.py",
+      "size": 15606
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/intpyapp.pyo",
+      "size": 16479
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/intpydde.py",
+      "size": 1390
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/intpydde.pyo",
+      "size": 2679
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/mdi_pychecker.py",
+      "size": 26948
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/mdi_pychecker.pyo",
+      "size": 27487
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/scriptutils.py",
+      "size": 20465
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/scriptutils.pyo",
+      "size": 18346
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/sgrepmdi.py",
+      "size": 19038
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/sgrepmdi.pyo",
+      "size": 24170
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/startup.py",
+      "size": 2233
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/startup.pyo",
+      "size": 1066
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/stdin.py",
+      "size": 6799
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/stdin.pyo",
+      "size": 7152
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/toolmenu.py",
+      "size": 8087
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/toolmenu.pyo",
+      "size": 9051
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/window.py",
+      "size": 513
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/window.pyo",
+      "size": 933
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/winout.py",
+      "size": 17503
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/framework/winout.pyo",
+      "size": 22191
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/AutoExpand.py",
+      "size": 2769
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/AutoExpand.pyo",
+      "size": 2821
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/AutoIndent.py",
+      "size": 21162
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/AutoIndent.pyo",
+      "size": 15680
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/CallTips.py",
+      "size": 6602
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/CallTips.pyo",
+      "size": 8255
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/FormatParagraph.py",
+      "size": 5832
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/FormatParagraph.pyo",
+      "size": 5026
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/IdleHistory.py",
+      "size": 3146
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/IdleHistory.pyo",
+      "size": 3554
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/PyParse.py",
+      "size": 18912
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/PyParse.pyo",
+      "size": 9255
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/__init__.py",
+      "size": 54
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/idle/__init__.pyo",
+      "size": 149
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/__init__.pyo",
+      "size": 148
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/activex.py",
+      "size": 2616
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/activex.pyo",
+      "size": 3984
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/afxres.py",
+      "size": 15588
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/afxres.pyo",
+      "size": 19090
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/dialog.py",
+      "size": 8157
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/dialog.pyo",
+      "size": 11634
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/docview.py",
+      "size": 3670
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/docview.pyo",
+      "size": 9057
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/object.py",
+      "size": 1853
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/object.pyo",
+      "size": 3077
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/thread.py",
+      "size": 541
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/thread.pyo",
+      "size": 1468
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/window.py",
+      "size": 1411
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/mfc/window.pyo",
+      "size": 2452
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/IDLEenvironment.py",
+      "size": 16830
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/IDLEenvironment.pyo",
+      "size": 19449
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/__init__.py",
+      "size": 15
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/__init__.pyo",
+      "size": 154
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/bindings.py",
+      "size": 5212
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/bindings.pyo",
+      "size": 7032
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/config.py",
+      "size": 12203
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/config.pyo",
+      "size": 10944
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/configui.py",
+      "size": 9490
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/configui.pyo",
+      "size": 11085
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/control.py",
+      "size": 18345
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/control.pyo",
+      "size": 30188
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/document.py",
+      "size": 9709
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/document.pyo",
+      "size": 10756
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/find.py",
+      "size": 12386
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/find.pyo",
+      "size": 13676
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/formatter.py",
+      "size": 22304
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/formatter.pyo",
+      "size": 21763
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/keycodes.py",
+      "size": 5241
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/keycodes.pyo",
+      "size": 5165
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/scintillacon.py",
+      "size": 47114
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/scintillacon.pyo",
+      "size": 62443
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/view.py",
+      "size": 26338
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/scintilla/view.pyo",
+      "size": 27400
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/TraceCollector.py",
+      "size": 2160
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/TraceCollector.pyo",
+      "size": 2589
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/__init__.py",
+      "size": 4
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/__init__.pyo",
+      "size": 150
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/browseProjects.py",
+      "size": 8351
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/browseProjects.pyo",
+      "size": 14768
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/browser.py",
+      "size": 12232
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/browser.pyo",
+      "size": 21385
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/hierlist.py",
+      "size": 11188
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/hierlist.pyo",
+      "size": 13663
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/regedit.py",
+      "size": 11230
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/regedit.pyo",
+      "size": 15392
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/regpy.py",
+      "size": 1885
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/pywin/tools/regpy.pyo",
+      "size": 3636
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/scintilla.dll",
+      "size": 416256
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/win32ui.pyd",
+      "size": 778752
+    },
+    {
+      "name": "bin/Lib/site-packages/pythonwin/win32uiole.pyd",
+      "size": 36864
+    },
+    {
+      "name": "bin/Lib/site-packages/pywin32-218-py2.7.egg-info",
+      "size": 450
+    },
+    {
+      "name": "bin/Lib/site-packages/pywin32.pth",
+      "size": 69
+    },
+    {
+      "name": "bin/Lib/site-packages/pywin32.version.txt",
+      "size": 5
+    },
+    {
+      "name": "bin/Lib/site-packages/setuptools-1.3.2-py2.7.egg",
+      "size": 801464
+    },
+    {
+      "name": "bin/Lib/site-packages/setuptools.pth",
+      "size": 30
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/BackupRead_BackupWrite.py",
+      "size": 3637
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/BackupRead_BackupWrite.pyo",
+      "size": 2870
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/BackupSeek_streamheaders.py",
+      "size": 3539
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/BackupSeek_streamheaders.pyo",
+      "size": 3238
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/CopyFileEx.py",
+      "size": 1101
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/CopyFileEx.pyo",
+      "size": 1276
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/CreateFileTransacted_MiniVersion.py",
+      "size": 2827
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/CreateFileTransacted_MiniVersion.pyo",
+      "size": 2266
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/EvtSubscribe_pull.py",
+      "size": 698
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/EvtSubscribe_pull.pyo",
+      "size": 789
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/EvtSubscribe_push.py",
+      "size": 642
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/EvtSubscribe_push.pyo",
+      "size": 869
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/FileSecurityTest.py",
+      "size": 3257
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/FileSecurityTest.pyo",
+      "size": 2719
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/GetSaveFileName.py",
+      "size": 1157
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/GetSaveFileName.pyo",
+      "size": 1201
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/NetValidatePasswordPolicy.py",
+      "size": 3708
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/NetValidatePasswordPolicy.pyo",
+      "size": 3440
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/OpenEncryptedFileRaw.py",
+      "size": 2021
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/OpenEncryptedFileRaw.pyo",
+      "size": 2017
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/RegCreateKeyTransacted.py",
+      "size": 1862
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/RegCreateKeyTransacted.pyo",
+      "size": 1357
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/RegRestoreKey.py",
+      "size": 1869
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/RegRestoreKey.pyo",
+      "size": 1802
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/SystemParametersInfo.py",
+      "size": 7564
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/SystemParametersInfo.pyo",
+      "size": 4863
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/c_extension/setup.py",
+      "size": 826
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/c_extension/setup.pyo",
+      "size": 673
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/cerapi.py",
+      "size": 7625
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/cerapi.pyo",
+      "size": 7103
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/dde/ddeclient.py",
+      "size": 450
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/dde/ddeclient.pyo",
+      "size": 620
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/dde/ddeserver.py",
+      "size": 1050
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/dde/ddeserver.pyo",
+      "size": 2516
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/desktopmanager.py",
+      "size": 7400
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/desktopmanager.pyo",
+      "size": 6711
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/eventLogDemo.py",
+      "size": 4129
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/eventLogDemo.pyo",
+      "size": 3833
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/getfilever.py",
+      "size": 1087
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/getfilever.pyo",
+      "size": 957
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/images/frowny.bmp",
+      "size": 3126
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/images/smiley.bmp",
+      "size": 3126
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/mmapfile_demo.py",
+      "size": 2822
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/mmapfile_demo.pyo",
+      "size": 2000
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/pipes/cat.py",
+      "size": 350
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/pipes/cat.pyo",
+      "size": 478
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/pipes/runproc.py",
+      "size": 4252
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/pipes/runproc.pyo",
+      "size": 2336
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/print_desktop.py",
+      "size": 2636
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/print_desktop.pyo",
+      "size": 2546
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/rastest.py",
+      "size": 4894
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/rastest.pyo",
+      "size": 4480
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/GetTokenInformation.py",
+      "size": 3487
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/GetTokenInformation.pyo",
+      "size": 2991
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/account_rights.py",
+      "size": 1503
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/account_rights.pyo",
+      "size": 1409
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/explicit_entries.py",
+      "size": 4784
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/explicit_entries.pyo",
+      "size": 3323
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/get_policy_info.py",
+      "size": 1189
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/get_policy_info.pyo",
+      "size": 973
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/list_rights.py",
+      "size": 1059
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/list_rights.pyo",
+      "size": 1116
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/localized_names.py",
+      "size": 2091
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/localized_names.pyo",
+      "size": 1993
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/lsaregevent.py",
+      "size": 513
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/lsaregevent.pyo",
+      "size": 583
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/lsastore.py",
+      "size": 468
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/lsastore.pyo",
+      "size": 516
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/query_information.py",
+      "size": 892
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/query_information.pyo",
+      "size": 1024
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/regsave_sa.py",
+      "size": 1566
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/regsave_sa.pyo",
+      "size": 1610
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/regsecurity.py",
+      "size": 1041
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/regsecurity.pyo",
+      "size": 1246
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sa_inherit.py",
+      "size": 272
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sa_inherit.pyo",
+      "size": 503
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/security_enums.py",
+      "size": 9784
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/security_enums.pyo",
+      "size": 9747
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/set_file_audit.py",
+      "size": 3169
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/set_file_audit.pyo",
+      "size": 2316
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/set_file_owner.py",
+      "size": 2083
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/set_file_owner.pyo",
+      "size": 1915
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/set_policy_info.py",
+      "size": 958
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/set_policy_info.pyo",
+      "size": 862
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/setkernelobjectsecurity.py",
+      "size": 4226
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/setkernelobjectsecurity.pyo",
+      "size": 2994
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/setnamedsecurityinfo.py",
+      "size": 4040
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/setnamedsecurityinfo.pyo",
+      "size": 2805
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/setsecurityinfo.py",
+      "size": 4180
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/setsecurityinfo.pyo",
+      "size": 2818
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/setuserobjectsecurity.py",
+      "size": 3058
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/setuserobjectsecurity.pyo",
+      "size": 2059
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sspi/fetch_url.py",
+      "size": 5482
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sspi/fetch_url.pyo",
+      "size": 4406
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sspi/simple_auth.py",
+      "size": 2867
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sspi/simple_auth.pyo",
+      "size": 1918
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sspi/socket_server.py",
+      "size": 6493
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sspi/socket_server.pyo",
+      "size": 6680
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sspi/validate_password.py",
+      "size": 1160
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/security/sspi/validate_password.pyo",
+      "size": 1267
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/service/nativePipeTestService.py",
+      "size": 2140
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/service/nativePipeTestService.pyo",
+      "size": 1666
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/service/pipeTestService.py",
+      "size": 6802
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/service/pipeTestService.pyo",
+      "size": 5268
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/service/pipeTestServiceClient.py",
+      "size": 4240
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/service/pipeTestServiceClient.pyo",
+      "size": 3978
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/service/serviceEvents.py",
+      "size": 4215
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/service/serviceEvents.pyo",
+      "size": 3403
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/timer_demo.py",
+      "size": 2271
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/timer_demo.pyo",
+      "size": 1817
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32clipboardDemo.py",
+      "size": 4776
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32clipboardDemo.pyo",
+      "size": 3625
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32clipboard_bitmapdemo.py",
+      "size": 3490
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32clipboard_bitmapdemo.pyo",
+      "size": 4192
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32comport_demo.py",
+      "size": 5894
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32comport_demo.pyo",
+      "size": 3981
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32console_demo.py",
+      "size": 4561
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32console_demo.pyo",
+      "size": 3063
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32cred_demo.py",
+      "size": 2291
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32cred_demo.pyo",
+      "size": 2152
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32fileDemo.py",
+      "size": 1577
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32fileDemo.pyo",
+      "size": 1176
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_demo.py",
+      "size": 4361
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_demo.pyo",
+      "size": 5130
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_devicenotify.py",
+      "size": 3984
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_devicenotify.pyo",
+      "size": 2895
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_dialog.py",
+      "size": 15197
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_dialog.pyo",
+      "size": 15408
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_menu.py",
+      "size": 16390
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_menu.pyo",
+      "size": 9939
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_taskbar.py",
+      "size": 5050
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32gui_taskbar.pyo",
+      "size": 4980
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32netdemo.py",
+      "size": 8783
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32netdemo.pyo",
+      "size": 8683
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32rcparser_demo.py",
+      "size": 2953
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32rcparser_demo.pyo",
+      "size": 4218
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32servicedemo.py",
+      "size": 601
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32servicedemo.pyo",
+      "size": 794
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32ts_logoff_disconnected.py",
+      "size": 712
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32ts_logoff_disconnected.pyo",
+      "size": 682
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32wnet/testwnet.py",
+      "size": 3537
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32wnet/testwnet.pyo",
+      "size": 3900
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32wnet/winnetwk.py",
+      "size": 3285
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/win32wnet/winnetwk.pyo",
+      "size": 3459
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/winprocess.py",
+      "size": 7529
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/Demos/winprocess.pyo",
+      "size": 7525
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/_win32sysloader.pyd",
+      "size": 8192
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/_winxptheme.pyd",
+      "size": 16384
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/include/PyWinTypes.h",
+      "size": 37100
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/afxres.py",
+      "size": 15588
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/afxres.pyo",
+      "size": 19070
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/commctrl.py",
+      "size": 49408
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/commctrl.pyo",
+      "size": 45647
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/dbi.py",
+      "size": 724
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/dbi.pyo",
+      "size": 890
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/mmsystem.py",
+      "size": 31388
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/mmsystem.pyo",
+      "size": 30818
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/netbios.py",
+      "size": 7324
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/netbios.pyo",
+      "size": 8850
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/ntsecuritycon.py",
+      "size": 25110
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/ntsecuritycon.pyo",
+      "size": 22686
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/pywin32_testutil.py",
+      "size": 10404
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/pywin32_testutil.pyo",
+      "size": 9915
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/pywintypes.py",
+      "size": 6556
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/pywintypes.pyc",
+      "size": 2098
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/pywintypes.pyo",
+      "size": 1962
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/rasutil.py",
+      "size": 1774
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/rasutil.pyo",
+      "size": 2211
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/regcheck.py",
+      "size": 3525
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/regcheck.pyo",
+      "size": 3869
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/regutil.py",
+      "size": 11249
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/regutil.pyo",
+      "size": 11530
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/sspi.py",
+      "size": 9882
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/sspi.pyo",
+      "size": 7973
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/sspicon.py",
+      "size": 16549
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/sspicon.pyo",
+      "size": 18843
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32con.py",
+      "size": 124492
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32con.pyo",
+      "size": 141148
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32cryptcon.py",
+      "size": 67868
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32cryptcon.pyo",
+      "size": 70379
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32evtlogutil.py",
+      "size": 6634
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32evtlogutil.pyo",
+      "size": 5250
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32gui_struct.py",
+      "size": 30129
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32gui_struct.pyo",
+      "size": 21520
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32inetcon.py",
+      "size": 48783
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32inetcon.pyo",
+      "size": 42993
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32netcon.py",
+      "size": 20394
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32netcon.pyo",
+      "size": 20674
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32pdhquery.py",
+      "size": 20814
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32pdhquery.pyo",
+      "size": 22064
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32pdhutil.py",
+      "size": 7869
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32pdhutil.pyo",
+      "size": 5521
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32rcparser.py",
+      "size": 21765
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32rcparser.pyo",
+      "size": 18896
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32serviceutil.py",
+      "size": 35940
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32serviceutil.pyo",
+      "size": 25155
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32timezone.py",
+      "size": 32693
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32timezone.pyo",
+      "size": 38411
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32traceutil.py",
+      "size": 1528
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32traceutil.pyo",
+      "size": 1056
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32verstamp.py",
+      "size": 7109
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/win32verstamp.pyo",
+      "size": 7625
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winerror.py",
+      "size": 104439
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winerror.pyo",
+      "size": 113489
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winioctlcon.py",
+      "size": 34678
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winioctlcon.pyo",
+      "size": 27287
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winnt.py",
+      "size": 40681
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winnt.pyo",
+      "size": 43520
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winperf.py",
+      "size": 6373
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winperf.pyo",
+      "size": 3155
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winxptheme.py",
+      "size": 765
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/lib/winxptheme.pyo",
+      "size": 1093
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/libs/pywintypes.lib",
+      "size": 120466
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/license.txt",
+      "size": 1550
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/mmapfile.pyd",
+      "size": 14336
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/odbc.pyd",
+      "size": 27648
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/perfmon.pyd",
+      "size": 16384
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/perfmondata.dll",
+      "size": 12800
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/pythonservice.exe",
+      "size": 11776
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/ControlService.py",
+      "size": 12058
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/ControlService.pyo",
+      "size": 12033
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/VersionStamp/BrandProject.py",
+      "size": 2585
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/VersionStamp/BrandProject.pyo",
+      "size": 2823
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/VersionStamp/bulkstamp.py",
+      "size": 3770
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/VersionStamp/bulkstamp.pyo",
+      "size": 3254
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/VersionStamp/vssutil.py",
+      "size": 4860
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/VersionStamp/vssutil.pyo",
+      "size": 5965
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/backupEventLog.py",
+      "size": 1075
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/backupEventLog.pyo",
+      "size": 1381
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/ce/pysynch.py",
+      "size": 8136
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/ce/pysynch.pyo",
+      "size": 9083
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/killProcName.py",
+      "size": 1822
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/killProcName.pyo",
+      "size": 1316
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/rasutil.py",
+      "size": 2466
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/rasutil.pyo",
+      "size": 3109
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/regsetup.py",
+      "size": 20513
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/regsetup.pyo",
+      "size": 18754
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/setup_d.py",
+      "size": 3401
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/scripts/setup_d.pyo",
+      "size": 3459
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/servicemanager.pyd",
+      "size": 27648
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/handles.py",
+      "size": 5206
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/handles.pyo",
+      "size": 6167
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_clipboard.py",
+      "size": 4345
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_clipboard.pyo",
+      "size": 5950
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_exceptions.py",
+      "size": 8750
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_exceptions.pyo",
+      "size": 10436
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_odbc.py",
+      "size": 7744
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_odbc.pyo",
+      "size": 8842
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_pywintypes.py",
+      "size": 3861
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_pywintypes.pyo",
+      "size": 4658
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_security.py",
+      "size": 5331
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_security.pyo",
+      "size": 7198
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_sspi.py",
+      "size": 5505
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_sspi.pyo",
+      "size": 6127
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32api.py",
+      "size": 8905
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32api.pyo",
+      "size": 9197
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32crypt.py",
+      "size": 1106
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32crypt.pyo",
+      "size": 1508
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32event.py",
+      "size": 4449
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32event.pyo",
+      "size": 5878
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32file.py",
+      "size": 40707
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32file.pyo",
+      "size": 30620
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32gui.py",
+      "size": 2965
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32gui.pyo",
+      "size": 3384
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32guistruct.py",
+      "size": 8936
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32guistruct.pyo",
+      "size": 10764
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32inet.py",
+      "size": 2524
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32inet.pyo",
+      "size": 3785
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32net.py",
+      "size": 650
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32net.pyo",
+      "size": 1137
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32pipe.py",
+      "size": 5680
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32pipe.pyo",
+      "size": 4782
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32rcparser.py",
+      "size": 2571
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32rcparser.pyo",
+      "size": 3457
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32timezone.py",
+      "size": 308
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32timezone.pyo",
+      "size": 809
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32trace.py",
+      "size": 11603
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32trace.pyo",
+      "size": 13523
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32wnet.py",
+      "size": 6119
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/test_win32wnet.pyo",
+      "size": 6140
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/testall.py",
+      "size": 6126
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/testall.pyo",
+      "size": 5627
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/win32rcparser/python.bmp",
+      "size": 778
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/win32rcparser/python.ico",
+      "size": 766
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/win32rcparser/test.h",
+      "size": 1815
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/test/win32rcparser/test.rc",
+      "size": 6489
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/timer.pyd",
+      "size": 10240
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win2kras.pyd",
+      "size": 10752
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32api.pyd",
+      "size": 98816
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32clipboard.pyd",
+      "size": 17920
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32console.pyd",
+      "size": 45568
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32cred.pyd",
+      "size": 25600
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32crypt.pyd",
+      "size": 11264
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32event.pyd",
+      "size": 18432
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32evtlog.pyd",
+      "size": 33792
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32file.pyd",
+      "size": 119808
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32gui.pyd",
+      "size": 167936
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32help.pyd",
+      "size": 39936
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32inet.pyd",
+      "size": 38912
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32job.pyd",
+      "size": 19456
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32lz.pyd",
+      "size": 10240
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32net.pyd",
+      "size": 64512
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32pdh.pyd",
+      "size": 25600
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32pipe.pyd",
+      "size": 24064
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32print.pyd",
+      "size": 52736
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32process.pyd",
+      "size": 35840
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32profile.pyd",
+      "size": 17408
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32ras.pyd",
+      "size": 20480
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32security.pyd",
+      "size": 108544
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32service.pyd",
+      "size": 42496
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32trace.pyd",
+      "size": 15872
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32transaction.pyd",
+      "size": 12288
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32ts.pyd",
+      "size": 22528
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/win32wnet.pyd",
+      "size": 25088
+    },
+    {
+      "name": "bin/Lib/site-packages/win32/winxpgui.pyd",
+      "size": 319488
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/GeneratedSupport.html",
+      "size": 6127
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/PythonCOM.html",
+      "size": 9033
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/QuickStartClientCom.html",
+      "size": 7392
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/QuickStartServerCom.html",
+      "size": 13135
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/docindex.html",
+      "size": 1317
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/image/BTN_HomePage.gif",
+      "size": 211
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/image/BTN_ManualTop.gif",
+      "size": 215
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/image/BTN_NextPage.gif",
+      "size": 218
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/image/BTN_PrevPage.gif",
+      "size": 216
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/image/blank.gif",
+      "size": 864
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/image/pycom_blowing.gif",
+      "size": 20926
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/image/pythoncom.gif",
+      "size": 5767
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/image/www_icon.gif",
+      "size": 275
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/index.html",
+      "size": 1660
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/misc.html",
+      "size": 1182
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/package.html",
+      "size": 3290
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/HTML/variant.html",
+      "size": 5874
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/License.txt",
+      "size": 1578
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/__init__.py",
+      "size": 4419
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/__init__.pyc",
+      "size": 2230
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/__init__.pyo",
+      "size": 2203
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/CLSIDToClass.py",
+      "size": 1758
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/CLSIDToClass.pyo",
+      "size": 2372
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/__init__.py",
+      "size": 22636
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/__init__.pyo",
+      "size": 21298
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/build.py",
+      "size": 24264
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/build.pyo",
+      "size": 18866
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/combrowse.py",
+      "size": 20775
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/combrowse.pyo",
+      "size": 23770
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/connect.py",
+      "size": 1353
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/connect.pyo",
+      "size": 2288
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/dynamic.py",
+      "size": 22308
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/dynamic.pyo",
+      "size": 19761
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/gencache.py",
+      "size": 24422
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/gencache.pyo",
+      "size": 20208
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/genpy.py",
+      "size": 47858
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/genpy.pyo",
+      "size": 35944
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/makepy.py",
+      "size": 12793
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/makepy.pyo",
+      "size": 12905
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/selecttlb.py",
+      "size": 5118
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/selecttlb.pyo",
+      "size": 5411
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/tlbrowse.py",
+      "size": 8070
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/tlbrowse.pyo",
+      "size": 10136
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/util.py",
+      "size": 3049
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/client/util.pyo",
+      "size": 4944
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/decimal_23.py",
+      "size": 107483
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/decimal_23.pyo",
+      "size": 88952
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/__init__.pyo",
+      "size": 143
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/connect.py",
+      "size": 3741
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/connect.pyo",
+      "size": 3333
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/dump_clipboard.py",
+      "size": 2948
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/dump_clipboard.pyo",
+      "size": 2607
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/eventsApartmentThreaded.py",
+      "size": 3838
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/eventsApartmentThreaded.pyo",
+      "size": 2827
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/eventsFreeThreaded.py",
+      "size": 3606
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/eventsFreeThreaded.pyo",
+      "size": 2471
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/excelAddin.py",
+      "size": 6029
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/excelAddin.pyo",
+      "size": 5379
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/excelRTDServer.py",
+      "size": 15939
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/excelRTDServer.pyo",
+      "size": 14935
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/iebutton.py",
+      "size": 7264
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/iebutton.pyo",
+      "size": 7382
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/ietoolbar.py",
+      "size": 11073
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/ietoolbar.pyo",
+      "size": 12452
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/outlookAddin.py",
+      "size": 4751
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/outlookAddin.pyo",
+      "size": 5118
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/trybag.py",
+      "size": 2057
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/demos/trybag.pyo",
+      "size": 3684
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/include/PythonCOM.h",
+      "size": 29426
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/include/PythonCOMRegister.h",
+      "size": 3005
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/include/PythonCOMServer.h",
+      "size": 6559
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/libs/axscript.lib",
+      "size": 67528
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/libs/pythoncom.lib",
+      "size": 150322
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/makegw/__init__.py",
+      "size": 31
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/makegw/__init__.pyo",
+      "size": 144
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/makegw/makegw.py",
+      "size": 17446
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/makegw/makegw.pyo",
+      "size": 14437
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/makegw/makegwenum.py",
+      "size": 10067
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/makegw/makegwenum.pyo",
+      "size": 10164
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/makegw/makegwparse.py",
+      "size": 31346
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/makegw/makegwparse.pyo",
+      "size": 44035
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/olectl.py",
+      "size": 3053
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/olectl.pyo",
+      "size": 3047
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/readme.htm",
+      "size": 4342
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/__init__.py",
+      "size": 49
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/__init__.pyo",
+      "size": 144
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/connect.py",
+      "size": 2491
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/connect.pyo",
+      "size": 3565
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/dispatcher.py",
+      "size": 9250
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/dispatcher.pyo",
+      "size": 12023
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/exception.py",
+      "size": 3246
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/exception.pyo",
+      "size": 3469
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/factory.py",
+      "size": 788
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/factory.pyo",
+      "size": 1163
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/localserver.py",
+      "size": 1202
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/localserver.pyo",
+      "size": 1378
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/policy.py",
+      "size": 31327
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/policy.pyo",
+      "size": 30046
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/register.py",
+      "size": 23513
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/register.pyo",
+      "size": 17458
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/util.py",
+      "size": 6572
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/server/util.pyo",
+      "size": 9610
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/PythonTools.py",
+      "size": 1191
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/PythonTools.pyo",
+      "size": 2037
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/__init__.pyo",
+      "size": 145
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/dictionary.py",
+      "size": 4189
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/dictionary.pyo",
+      "size": 4501
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/interp.py",
+      "size": 1761
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/interp.pyo",
+      "size": 2563
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/perfmon.py",
+      "size": 1072
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/perfmon.pyo",
+      "size": 1701
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/test_pycomtest.py",
+      "size": 4701
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/servers/test_pycomtest.pyo",
+      "size": 10411
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/storagecon.py",
+      "size": 3224
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/storagecon.pyo",
+      "size": 3774
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/GenTestScripts.py",
+      "size": 2585
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/GenTestScripts.pyo",
+      "size": 3001
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/Testpys.sct",
+      "size": 1122
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/__init__.py",
+      "size": 44
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/__init__.pyo",
+      "size": 142
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/daodump.py",
+      "size": 2086
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/daodump.pyo",
+      "size": 3074
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/errorSemantics.py",
+      "size": 5976
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/errorSemantics.pyo",
+      "size": 5231
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/pippo.idl",
+      "size": 1757
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/pippo_server.py",
+      "size": 2698
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/pippo_server.pyo",
+      "size": 3280
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/policySemantics.py",
+      "size": 3061
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/policySemantics.pyo",
+      "size": 4817
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/readme.txt",
+      "size": 736
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testADOEvents.py",
+      "size": 2740
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testADOEvents.pyo",
+      "size": 3637
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testAXScript.py",
+      "size": 1300
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testAXScript.pyo",
+      "size": 2068
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testAccess.py",
+      "size": 5843
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testAccess.pyo",
+      "size": 4782
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testArrays.py",
+      "size": 2621
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testArrays.pyo",
+      "size": 4334
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testClipboard.py",
+      "size": 6089
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testClipboard.pyo",
+      "size": 7617
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testCollections.py",
+      "size": 4444
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testCollections.pyo",
+      "size": 4500
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testDCOM.py",
+      "size": 1701
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testDCOM.pyo",
+      "size": 1684
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testDictionary.py",
+      "size": 2426
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testDictionary.pyo",
+      "size": 3208
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testDictionary.vbs",
+      "size": 588
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testDynamic.py",
+      "size": 2682
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testDynamic.pyo",
+      "size": 3029
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testExchange.py",
+      "size": 3381
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testExchange.pyo",
+      "size": 3522
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testExplorer.py",
+      "size": 3739
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testExplorer.pyo",
+      "size": 3585
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testGIT.py",
+      "size": 4691
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testGIT.pyo",
+      "size": 4916
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testGatewayAddresses.py",
+      "size": 5275
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testGatewayAddresses.pyo",
+      "size": 4410
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testInterp.vbs",
+      "size": 270
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testIterators.py",
+      "size": 4782
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testIterators.pyo",
+      "size": 5993
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testMSOffice.py",
+      "size": 5350
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testMSOffice.pyo",
+      "size": 5787
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testMSOfficeEvents.py",
+      "size": 3967
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testMSOfficeEvents.pyo",
+      "size": 5888
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testMarshal.py",
+      "size": 5918
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testMarshal.pyo",
+      "size": 5473
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testNetscape.py",
+      "size": 661
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testNetscape.pyo",
+      "size": 708
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testPersist.py",
+      "size": 6587
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testPersist.pyo",
+      "size": 7587
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testPippo.py",
+      "size": 1898
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testPippo.pyo",
+      "size": 2731
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testPyComTest.py",
+      "size": 26741
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testPyComTest.pyo",
+      "size": 22726
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testPyScriptlet.js",
+      "size": 1120
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testROT.py",
+      "size": 780
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testROT.pyo",
+      "size": 1092
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testServers.py",
+      "size": 1404
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testServers.pyo",
+      "size": 2848
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testShell.py",
+      "size": 10064
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testShell.pyo",
+      "size": 10774
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testStorage.py",
+      "size": 3406
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testStorage.pyo",
+      "size": 2395
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testStreams.py",
+      "size": 4521
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testStreams.pyo",
+      "size": 6368
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testWMI.py",
+      "size": 475
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testWMI.pyo",
+      "size": 1047
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testall.py",
+      "size": 9085
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testall.pyo",
+      "size": 8327
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testmakepy.py",
+      "size": 1980
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testmakepy.pyo",
+      "size": 1925
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testvb.py",
+      "size": 20786
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testvb.pyo",
+      "size": 14215
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testvbscript_regexp.py",
+      "size": 1145
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testvbscript_regexp.pyo",
+      "size": 2030
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testxslt.js",
+      "size": 581
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testxslt.py",
+      "size": 917
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testxslt.pyo",
+      "size": 1291
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/testxslt.xsl",
+      "size": 2113
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/util.py",
+      "size": 8384
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/test/util.pyo",
+      "size": 9838
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/universal.py",
+      "size": 8433
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/universal.pyo",
+      "size": 7236
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/util.py",
+      "size": 915
+    },
+    {
+      "name": "bin/Lib/site-packages/win32com/util.pyo",
+      "size": 1230
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/__init__.py",
+      "size": 3424
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/__init__.pyo",
+      "size": 4448
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/adsi.pyd",
+      "size": 65024
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/adsicon.py",
+      "size": 12877
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/adsicon.pyo",
+      "size": 13112
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/demos/objectPicker.py",
+      "size": 2039
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/demos/objectPicker.pyo",
+      "size": 1767
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/demos/scp.py",
+      "size": 19902
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/demos/scp.pyo",
+      "size": 14414
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/demos/search.py",
+      "size": 4395
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/demos/search.pyo",
+      "size": 5121
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/demos/test.py",
+      "size": 7493
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/adsi/demos/test.pyo",
+      "size": 8715
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/authorization/__init__.py",
+      "size": 198
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/authorization/__init__.pyo",
+      "size": 244
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/authorization/authorization.pyd",
+      "size": 18432
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/authorization/demos/EditSecurity.py",
+      "size": 7939
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/authorization/demos/EditSecurity.pyo",
+      "size": 7648
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/authorization/demos/EditServiceSecurity.py",
+      "size": 7599
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/authorization/demos/EditServiceSecurity.pyo",
+      "size": 7633
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axcontrol/__init__.py",
+      "size": 139
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axcontrol/__init__.pyo",
+      "size": 240
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axcontrol/axcontrol.pyd",
+      "size": 105984
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/__init__.py",
+      "size": 137
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/__init__.pyo",
+      "size": 238
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/adb.py",
+      "size": 17708
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/adb.pyo",
+      "size": 16560
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/axdebug.pyd",
+      "size": 221184
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/codecontainer.py",
+      "size": 9139
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/codecontainer.pyo",
+      "size": 9628
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/contexts.py",
+      "size": 2212
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/contexts.pyo",
+      "size": 2862
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/debugger.py",
+      "size": 7142
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/debugger.pyo",
+      "size": 9491
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/documents.py",
+      "size": 4539
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/documents.pyo",
+      "size": 6307
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/dump.py",
+      "size": 1858
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/dump.pyo",
+      "size": 2107
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/expressions.py",
+      "size": 6364
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/expressions.pyo",
+      "size": 8752
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/gateways.py",
+      "size": 17573
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/gateways.pyo",
+      "size": 27546
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/stackframe.py",
+      "size": 5954
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/stackframe.pyo",
+      "size": 7000
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/util.py",
+      "size": 3753
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axdebug/util.pyo",
+      "size": 4160
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/asp/CreateObject.asp",
+      "size": 513
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/asp/caps.asp",
+      "size": 1367
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/asp/interrupt/test.asp",
+      "size": 77
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/asp/interrupt/test.html",
+      "size": 166
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/asp/interrupt/test1.asp",
+      "size": 94
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/asp/interrupt/test1.html",
+      "size": 168
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/asp/tut1.asp",
+      "size": 158
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/MarqueeText1.htm",
+      "size": 728
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/calc.htm",
+      "size": 4157
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/dbgtest.htm",
+      "size": 206
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/demo.htm",
+      "size": 471
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/demo_check.htm",
+      "size": 1545
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/demo_intro.htm",
+      "size": 1613
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/demo_menu.htm",
+      "size": 515
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/docwrite.htm",
+      "size": 492
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/foo2.htm",
+      "size": 3591
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/form.htm",
+      "size": 506
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/marqueeDemo.htm",
+      "size": 1227
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/mousetrack.htm",
+      "size": 2302
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/ie/pycom_blowing.gif",
+      "size": 20926
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/wsh/blank.pys",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/wsh/excel.pys",
+      "size": 1084
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/wsh/registry.pys",
+      "size": 1670
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/Demos/client/wsh/test.pys",
+      "size": 384
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/__init__.py",
+      "size": 139
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/__init__.pyo",
+      "size": 239
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/asputil.py",
+      "size": 239
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/asputil.pyo",
+      "size": 522
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/axscript.pyd",
+      "size": 68096
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/__init__.py",
+      "size": 28
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/__init__.pyo",
+      "size": 156
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/debug.py",
+      "size": 7521
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/debug.pyo",
+      "size": 9339
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/error.py",
+      "size": 8183
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/error.pyo",
+      "size": 8676
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/framework.py",
+      "size": 37794
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/framework.pyo",
+      "size": 38993
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/pydumper.py",
+      "size": 2194
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/pydumper.pyo",
+      "size": 2380
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/pyscript.py",
+      "size": 13137
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/pyscript.pyo",
+      "size": 15376
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/pyscript_rexec.py",
+      "size": 2016
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/pyscript_rexec.pyo",
+      "size": 1845
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/scriptdispatch.py",
+      "size": 3473
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/client/scriptdispatch.pyo",
+      "size": 4905
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/server/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/server/__init__.pyo",
+      "size": 156
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/server/axsite.py",
+      "size": 3946
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/server/axsite.pyo",
+      "size": 6574
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/server/error.py",
+      "size": 485
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/server/error.pyo",
+      "size": 1088
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/debugTest.pys",
+      "size": 217
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/debugTest.vbs",
+      "size": 91
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/leakTest.py",
+      "size": 4676
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/leakTest.pyo",
+      "size": 6717
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/test.html",
+      "size": 1502
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/testHost.py",
+      "size": 7729
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/testHost.pyo",
+      "size": 9294
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/testHost4Dbg.py",
+      "size": 2625
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/axscript/test/testHost4Dbg.pyo",
+      "size": 3252
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/bits/__init__.py",
+      "size": 198
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/bits/__init__.pyo",
+      "size": 235
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/bits/bits.pyd",
+      "size": 40448
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/bits/test/show_all_jobs.py",
+      "size": 1684
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/bits/test/show_all_jobs.pyo",
+      "size": 1828
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/bits/test/test_bits.py",
+      "size": 4089
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/bits/test/test_bits.pyo",
+      "size": 4051
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/__init__.py",
+      "size": 137
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/__init__.pyo",
+      "size": 242
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/directsound.pyd",
+      "size": 55296
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/test/__init__.py",
+      "size": 66
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/test/__init__.pyo",
+      "size": 157
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/test/ds_record.py",
+      "size": 1408
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/test/ds_record.pyo",
+      "size": 1777
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/test/ds_test.py",
+      "size": 12831
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/directsound/test/ds_test.pyo",
+      "size": 14830
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/ifilter/__init__.py",
+      "size": 41
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/ifilter/__init__.pyo",
+      "size": 148
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/ifilter/demo/filterDemo.py",
+      "size": 11262
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/ifilter/demo/filterDemo.pyo",
+      "size": 7691
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/ifilter/ifilter.pyd",
+      "size": 18944
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/ifilter/ifiltercon.py",
+      "size": 3369
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/ifilter/ifiltercon.pyo",
+      "size": 3722
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/internet/__init__.py",
+      "size": 139
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/internet/__init__.pyo",
+      "size": 239
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/internet/inetcon.py",
+      "size": 11819
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/internet/inetcon.pyo",
+      "size": 11121
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/internet/internet.pyd",
+      "size": 67072
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/__init__.py",
+      "size": 528
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/__init__.pyo",
+      "size": 617
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/demos/mapisend.py",
+      "size": 3620
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/demos/mapisend.pyo",
+      "size": 3143
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/emsabtags.py",
+      "size": 62256
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/emsabtags.pyo",
+      "size": 43949
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/exchange.pyd",
+      "size": 65536
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/exchdapi.pyd",
+      "size": 44032
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/mapi.pyd",
+      "size": 93184
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/mapitags.py",
+      "size": 70642
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/mapitags.pyo",
+      "size": 44370
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/mapiutil.py",
+      "size": 6193
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/mapi/mapiutil.pyo",
+      "size": 5765
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/propsys/__init__.py",
+      "size": 28
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/propsys/__init__.pyo",
+      "size": 148
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/propsys/propsys.pyd",
+      "size": 94720
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/propsys/pscon.py",
+      "size": 48839
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/propsys/pscon.pyo",
+      "size": 45872
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/propsys/test/testpropsys.py",
+      "size": 205
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/propsys/test/testpropsys.pyo",
+      "size": 386
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/__init__.py",
+      "size": 139
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/__init__.pyo",
+      "size": 236
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/IActiveDesktop.py",
+      "size": 1947
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/IActiveDesktop.pyo",
+      "size": 1910
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/IShellLinkDataList.py",
+      "size": 1712
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/IShellLinkDataList.pyo",
+      "size": 1982
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/IUniformResourceLocator.py",
+      "size": 1576
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/IUniformResourceLocator.pyo",
+      "size": 2584
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/browse_for_folder.py",
+      "size": 1701
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/browse_for_folder.pyo",
+      "size": 1274
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/create_link.py",
+      "size": 1931
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/create_link.pyo",
+      "size": 2617
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/dump_link.py",
+      "size": 1463
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/dump_link.pyo",
+      "size": 2168
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/explorer_browser.py",
+      "size": 4864
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/explorer_browser.pyo",
+      "size": 5238
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/column_provider.py",
+      "size": 3991
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/column_provider.pyo",
+      "size": 4066
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/context_menu.py",
+      "size": 4546
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/context_menu.pyo",
+      "size": 4510
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/copy_hook.py",
+      "size": 2959
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/copy_hook.pyo",
+      "size": 2686
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/empty_volume_cache.py",
+      "size": 7765
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/empty_volume_cache.pyo",
+      "size": 6471
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/folder_view.py",
+      "size": 29610
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/folder_view.pyo",
+      "size": 31494
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/icon_handler.py",
+      "size": 2674
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/icon_handler.pyo",
+      "size": 3228
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/shell_view.py",
+      "size": 38597
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/servers/shell_view.pyo",
+      "size": 31019
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/shellexecuteex.py",
+      "size": 534
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/shellexecuteex.pyo",
+      "size": 870
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/viewstate.py",
+      "size": 1862
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/viewstate.pyo",
+      "size": 1998
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/walk_shell_folders.py",
+      "size": 763
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/demos/walk_shell_folders.pyo",
+      "size": 909
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/shell.pyd",
+      "size": 320512
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/shellcon.py",
+      "size": 40104
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/shellcon.pyo",
+      "size": 39070
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/test/testSHFileOperation.py",
+      "size": 1725
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/test/testSHFileOperation.pyo",
+      "size": 1864
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/test/testShellFolder.py",
+      "size": 602
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/test/testShellFolder.pyo",
+      "size": 826
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/test/testShellItem.py",
+      "size": 2983
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/shell/test/testShellItem.pyo",
+      "size": 3357
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/__init__.py",
+      "size": 198
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/__init__.pyo",
+      "size": 244
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/taskscheduler.pyd",
+      "size": 34816
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/test/test_addtask.py",
+      "size": 2167
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/test/test_addtask.pyo",
+      "size": 2298
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/test/test_addtask_1.py",
+      "size": 2143
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/test/test_addtask_1.pyo",
+      "size": 2283
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/test/test_addtask_2.py",
+      "size": 1678
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/test/test_addtask_2.pyo",
+      "size": 1884
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/test/test_localsystem.py",
+      "size": 72
+    },
+    {
+      "name": "bin/Lib/site-packages/win32comext/taskscheduler/test/test_localsystem.pyo",
+      "size": 291
+    },
+    {
+      "name": "bin/Lib/site.py",
+      "size": 20209
+    },
+    {
+      "name": "bin/Lib/site.pyc",
+      "size": 19367
+    },
+    {
+      "name": "bin/Lib/site.pyo",
+      "size": 19052
+    },
+    {
+      "name": "bin/Lib/smtpd.py",
+      "size": 19098
+    },
+    {
+      "name": "bin/Lib/smtplib.py",
+      "size": 32167
+    },
+    {
+      "name": "bin/Lib/sndhdr.py",
+      "size": 6201
+    },
+    {
+      "name": "bin/Lib/socket.py",
+      "size": 21085
+    },
+    {
+      "name": "bin/Lib/socket.pyc",
+      "size": 16226
+    },
+    {
+      "name": "bin/Lib/sqlite3/__init__.py",
+      "size": 1061
+    },
+    {
+      "name": "bin/Lib/sqlite3/dbapi2.py",
+      "size": 2732
+    },
+    {
+      "name": "bin/Lib/sqlite3/dump.py",
+      "size": 2874
+    },
+    {
+      "name": "bin/Lib/sre.py",
+      "size": 397
+    },
+    {
+      "name": "bin/Lib/sre_compile.py",
+      "size": 16872
+    },
+    {
+      "name": "bin/Lib/sre_compile.pyc",
+      "size": 11026
+    },
+    {
+      "name": "bin/Lib/sre_compile.pyo",
+      "size": 10797
+    },
+    {
+      "name": "bin/Lib/sre_constants.py",
+      "size": 7460
+    },
+    {
+      "name": "bin/Lib/sre_constants.pyc",
+      "size": 6215
+    },
+    {
+      "name": "bin/Lib/sre_constants.pyo",
+      "size": 6170
+    },
+    {
+      "name": "bin/Lib/sre_parse.py",
+      "size": 28262
+    },
+    {
+      "name": "bin/Lib/sre_parse.pyc",
+      "size": 19535
+    },
+    {
+      "name": "bin/Lib/sre_parse.pyo",
+      "size": 19211
+    },
+    {
+      "name": "bin/Lib/ssl.py",
+      "size": 16637
+    },
+    {
+      "name": "bin/Lib/stat.py",
+      "size": 1938
+    },
+    {
+      "name": "bin/Lib/stat.pyc",
+      "size": 2791
+    },
+    {
+      "name": "bin/Lib/stat.pyo",
+      "size": 2701
+    },
+    {
+      "name": "bin/Lib/statvfs.py",
+      "size": 916
+    },
+    {
+      "name": "bin/Lib/string.py",
+      "size": 21398
+    },
+    {
+      "name": "bin/Lib/stringold.py",
+      "size": 12881
+    },
+    {
+      "name": "bin/Lib/stringprep.py",
+      "size": 13794
+    },
+    {
+      "name": "bin/Lib/struct.py",
+      "size": 85
+    },
+    {
+      "name": "bin/Lib/subprocess.py",
+      "size": 60690
+    },
+    {
+      "name": "bin/Lib/subprocess.pyc",
+      "size": 42122
+    },
+    {
+      "name": "bin/Lib/sunau.py",
+      "size": 17714
+    },
+    {
+      "name": "bin/Lib/sunaudio.py",
+      "size": 1448
+    },
+    {
+      "name": "bin/Lib/symbol.py",
+      "size": 2172
+    },
+    {
+      "name": "bin/Lib/symtable.py",
+      "size": 7676
+    },
+    {
+      "name": "bin/Lib/sysconfig.py",
+      "size": 23020
+    },
+    {
+      "name": "bin/Lib/sysconfig.pyc",
+      "size": 17584
+    },
+    {
+      "name": "bin/Lib/sysconfig.pyo",
+      "size": 17350
+    },
+    {
+      "name": "bin/Lib/tabnanny.py",
+      "size": 11665
+    },
+    {
+      "name": "bin/Lib/tarfile.py",
+      "size": 91728
+    },
+    {
+      "name": "bin/Lib/telnetlib.py",
+      "size": 27600
+    },
+    {
+      "name": "bin/Lib/tempfile.py",
+      "size": 19226
+    },
+    {
+      "name": "bin/Lib/textwrap.py",
+      "size": 17462
+    },
+    {
+      "name": "bin/Lib/this.py",
+      "size": 1030
+    },
+    {
+      "name": "bin/Lib/threading.py",
+      "size": 48541
+    },
+    {
+      "name": "bin/Lib/threading.pyc",
+      "size": 43027
+    },
+    {
+      "name": "bin/Lib/timeit.py",
+      "size": 12431
+    },
+    {
+      "name": "bin/Lib/toaiff.py",
+      "size": 3252
+    },
+    {
+      "name": "bin/Lib/token.py",
+      "size": 3088
+    },
+    {
+      "name": "bin/Lib/tokenize.py",
+      "size": 16968
+    },
+    {
+      "name": "bin/Lib/trace.py",
+      "size": 30709
+    },
+    {
+      "name": "bin/Lib/traceback.py",
+      "size": 11573
+    },
+    {
+      "name": "bin/Lib/traceback.pyc",
+      "size": 11702
+    },
+    {
+      "name": "bin/Lib/traceback.pyo",
+      "size": 11522
+    },
+    {
+      "name": "bin/Lib/tty.py",
+      "size": 915
+    },
+    {
+      "name": "bin/Lib/types.py",
+      "size": 2124
+    },
+    {
+      "name": "bin/Lib/types.pyc",
+      "size": 2530
+    },
+    {
+      "name": "bin/Lib/types.pyo",
+      "size": 2476
+    },
+    {
+      "name": "bin/Lib/unittest/__init__.py",
+      "size": 2787
+    },
+    {
+      "name": "bin/Lib/unittest/__main__.py",
+      "size": 250
+    },
+    {
+      "name": "bin/Lib/unittest/case.py",
+      "size": 43774
+    },
+    {
+      "name": "bin/Lib/unittest/loader.py",
+      "size": 13817
+    },
+    {
+      "name": "bin/Lib/unittest/main.py",
+      "size": 9319
+    },
+    {
+      "name": "bin/Lib/unittest/result.py",
+      "size": 6500
+    },
+    {
+      "name": "bin/Lib/unittest/runner.py",
+      "size": 6729
+    },
+    {
+      "name": "bin/Lib/unittest/signals.py",
+      "size": 2474
+    },
+    {
+      "name": "bin/Lib/unittest/suite.py",
+      "size": 10112
+    },
+    {
+      "name": "bin/Lib/unittest/util.py",
+      "size": 4762
+    },
+    {
+      "name": "bin/Lib/urllib.py",
+      "size": 59790
+    },
+    {
+      "name": "bin/Lib/urllib2.py",
+      "size": 53258
+    },
+    {
+      "name": "bin/Lib/urlparse.py",
+      "size": 15554
+    },
+    {
+      "name": "bin/Lib/user.py",
+      "size": 1675
+    },
+    {
+      "name": "bin/Lib/uu.py",
+      "size": 6751
+    },
+    {
+      "name": "bin/Lib/uuid.py",
+      "size": 21769
+    },
+    {
+      "name": "bin/Lib/warnings.py",
+      "size": 14444
+    },
+    {
+      "name": "bin/Lib/warnings.pyc",
+      "size": 13232
+    },
+    {
+      "name": "bin/Lib/warnings.pyo",
+      "size": 12184
+    },
+    {
+      "name": "bin/Lib/wave.py",
+      "size": 18769
+    },
+    {
+      "name": "bin/Lib/weakref.py",
+      "size": 11072
+    },
+    {
+      "name": "bin/Lib/webbrowser.py",
+      "size": 23428
+    },
+    {
+      "name": "bin/Lib/whichdb.py",
+      "size": 3496
+    },
+    {
+      "name": "bin/Lib/wsgiref/__init__.py",
+      "size": 609
+    },
+    {
+      "name": "bin/Lib/wsgiref/handlers.py",
+      "size": 16432
+    },
+    {
+      "name": "bin/Lib/wsgiref/headers.py",
+      "size": 6048
+    },
+    {
+      "name": "bin/Lib/wsgiref/simple_server.py",
+      "size": 4924
+    },
+    {
+      "name": "bin/Lib/wsgiref/util.py",
+      "size": 5741
+    },
+    {
+      "name": "bin/Lib/wsgiref/validate.py",
+      "size": 15163
+    },
+    {
+      "name": "bin/Lib/xdrlib.py",
+      "size": 5794
+    },
+    {
+      "name": "bin/Lib/xml/__init__.py",
+      "size": 1021
+    },
+    {
+      "name": "bin/Lib/xml/dom/NodeFilter.py",
+      "size": 964
+    },
+    {
+      "name": "bin/Lib/xml/dom/__init__.py",
+      "size": 4137
+    },
+    {
+      "name": "bin/Lib/xml/dom/domreg.py",
+      "size": 3577
+    },
+    {
+      "name": "bin/Lib/xml/dom/expatbuilder.py",
+      "size": 37365
+    },
+    {
+      "name": "bin/Lib/xml/dom/minicompat.py",
+      "size": 3440
+    },
+    {
+      "name": "bin/Lib/xml/dom/minidom.py",
+      "size": 68216
+    },
+    {
+      "name": "bin/Lib/xml/dom/pulldom.py",
+      "size": 12325
+    },
+    {
+      "name": "bin/Lib/xml/dom/xmlbuilder.py",
+      "size": 12723
+    },
+    {
+      "name": "bin/Lib/xml/etree/ElementInclude.py",
+      "size": 5205
+    },
+    {
+      "name": "bin/Lib/xml/etree/ElementPath.py",
+      "size": 9778
+    },
+    {
+      "name": "bin/Lib/xml/etree/ElementTree.py",
+      "size": 58173
+    },
+    {
+      "name": "bin/Lib/xml/etree/__init__.py",
+      "size": 1637
+    },
+    {
+      "name": "bin/Lib/xml/etree/cElementTree.py",
+      "size": 65
+    },
+    {
+      "name": "bin/Lib/xml/parsers/__init__.py",
+      "size": 175
+    },
+    {
+      "name": "bin/Lib/xml/parsers/expat.py",
+      "size": 118
+    },
+    {
+      "name": "bin/Lib/xml/sax/__init__.py",
+      "size": 3689
+    },
+    {
+      "name": "bin/Lib/xml/sax/_exceptions.py",
+      "size": 4916
+    },
+    {
+      "name": "bin/Lib/xml/sax/expatreader.py",
+      "size": 15092
+    },
+    {
+      "name": "bin/Lib/xml/sax/handler.py",
+      "size": 14263
+    },
+    {
+      "name": "bin/Lib/xml/sax/saxutils.py",
+      "size": 11916
+    },
+    {
+      "name": "bin/Lib/xml/sax/xmlreader.py",
+      "size": 13013
+    },
+    {
+      "name": "bin/Lib/xmllib.py",
+      "size": 35795
+    },
+    {
+      "name": "bin/Lib/xmlrpclib.py",
+      "size": 52962
+    },
+    {
+      "name": "bin/Lib/zipfile.py",
+      "size": 59328
+    },
+    {
+      "name": "bin/NEWS.txt",
+      "size": 375685
+    },
+    {
+      "name": "bin/README.chromium",
+      "size": 2994
+    },
+    {
+      "name": "bin/README.txt",
+      "size": 55208
+    },
+    {
+      "name": "bin/Scripts/easy_install-2.7-script.py",
+      "size": 333
+    },
+    {
+      "name": "bin/Scripts/easy_install-2.7.exe",
+      "size": 65536
+    },
+    {
+      "name": "bin/Scripts/easy_install-2.7.exe.manifest",
+      "size": 573
+    },
+    {
+      "name": "bin/Scripts/easy_install-script.py",
+      "size": 325
+    },
+    {
+      "name": "bin/Scripts/easy_install.exe",
+      "size": 65536
+    },
+    {
+      "name": "bin/Scripts/easy_install.exe.manifest",
+      "size": 569
+    },
+    {
+      "name": "bin/Scripts/pip-2.7-script.py",
+      "size": 294
+    },
+    {
+      "name": "bin/Scripts/pip-2.7.exe",
+      "size": 65536
+    },
+    {
+      "name": "bin/Scripts/pip-2.7.exe.manifest",
+      "size": 564
+    },
+    {
+      "name": "bin/Scripts/pip-script.py",
+      "size": 286
+    },
+    {
+      "name": "bin/Scripts/pip.exe",
+      "size": 65536
+    },
+    {
+      "name": "bin/Scripts/pip.exe.manifest",
+      "size": 560
+    },
+    {
+      "name": "bin/Scripts/pywin32_postinstall.py",
+      "size": 25369
+    },
+    {
+      "name": "bin/Scripts/pywin32_postinstall.pyo",
+      "size": 17877
+    },
+    {
+      "name": "bin/Scripts/pywin32_testall.py",
+      "size": 3477
+    },
+    {
+      "name": "bin/Scripts/pywin32_testall.pyo",
+      "size": 2791
+    },
+    {
+      "name": "bin/Tools/Scripts/2to3.py",
+      "size": 101
+    },
+    {
+      "name": "bin/Tools/Scripts/README.txt",
+      "size": 3809
+    },
+    {
+      "name": "bin/Tools/Scripts/analyze_dxp.py",
+      "size": 4335
+    },
+    {
+      "name": "bin/Tools/Scripts/byext.py",
+      "size": 4075
+    },
+    {
+      "name": "bin/Tools/Scripts/byteyears.py",
+      "size": 1699
+    },
+    {
+      "name": "bin/Tools/Scripts/checkappend.py",
+      "size": 4825
+    },
+    {
+      "name": "bin/Tools/Scripts/checkpyc.py",
+      "size": 2077
+    },
+    {
+      "name": "bin/Tools/Scripts/classfix.py",
+      "size": 6143
+    },
+    {
+      "name": "bin/Tools/Scripts/cleanfuture.py",
+      "size": 8854
+    },
+    {
+      "name": "bin/Tools/Scripts/combinerefs.py",
+      "size": 4508
+    },
+    {
+      "name": "bin/Tools/Scripts/copytime.py",
+      "size": 690
+    },
+    {
+      "name": "bin/Tools/Scripts/crlf.py",
+      "size": 634
+    },
+    {
+      "name": "bin/Tools/Scripts/cvsfiles.py",
+      "size": 1859
+    },
+    {
+      "name": "bin/Tools/Scripts/db2pickle.py",
+      "size": 3705
+    },
+    {
+      "name": "bin/Tools/Scripts/diff.py",
+      "size": 2074
+    },
+    {
+      "name": "bin/Tools/Scripts/dutree.py",
+      "size": 1676
+    },
+    {
+      "name": "bin/Tools/Scripts/eptags.py",
+      "size": 1540
+    },
+    {
+      "name": "bin/Tools/Scripts/find_recursionlimit.py",
+      "size": 3591
+    },
+    {
+      "name": "bin/Tools/Scripts/finddiv.py",
+      "size": 2607
+    },
+    {
+      "name": "bin/Tools/Scripts/findlinksto.py",
+      "size": 1113
+    },
+    {
+      "name": "bin/Tools/Scripts/findnocoding.py",
+      "size": 2826
+    },
+    {
+      "name": "bin/Tools/Scripts/fixcid.py",
+      "size": 10300
+    },
+    {
+      "name": "bin/Tools/Scripts/fixdiv.py",
+      "size": 14280
+    },
+    {
+      "name": "bin/Tools/Scripts/fixheader.py",
+      "size": 1239
+    },
+    {
+      "name": "bin/Tools/Scripts/fixnotice.py",
+      "size": 3165
+    },
+    {
+      "name": "bin/Tools/Scripts/fixps.py",
+      "size": 926
+    },
+    {
+      "name": "bin/Tools/Scripts/ftpmirror.py",
+      "size": 13254
+    },
+    {
+      "name": "bin/Tools/Scripts/google.py",
+      "size": 543
+    },
+    {
+      "name": "bin/Tools/Scripts/gprof2html.py",
+      "size": 2247
+    },
+    {
+      "name": "bin/Tools/Scripts/h2py.py",
+      "size": 6143
+    },
+    {
+      "name": "bin/Tools/Scripts/hotshotmain.py",
+      "size": 1538
+    },
+    {
+      "name": "bin/Tools/Scripts/ifdef.py",
+      "size": 3831
+    },
+    {
+      "name": "bin/Tools/Scripts/lfcr.py",
+      "size": 643
+    },
+    {
+      "name": "bin/Tools/Scripts/linktree.py",
+      "size": 2505
+    },
+    {
+      "name": "bin/Tools/Scripts/lll.py",
+      "size": 775
+    },
+    {
+      "name": "bin/Tools/Scripts/logmerge.py",
+      "size": 5761
+    },
+    {
+      "name": "bin/Tools/Scripts/mailerdaemon.py",
+      "size": 8180
+    },
+    {
+      "name": "bin/Tools/Scripts/md5sum.py",
+      "size": 2476
+    },
+    {
+      "name": "bin/Tools/Scripts/methfix.py",
+      "size": 5634
+    },
+    {
+      "name": "bin/Tools/Scripts/mkreal.py",
+      "size": 1694
+    },
+    {
+      "name": "bin/Tools/Scripts/ndiff.py",
+      "size": 3942
+    },
+    {
+      "name": "bin/Tools/Scripts/nm2def.py",
+      "size": 2547
+    },
+    {
+      "name": "bin/Tools/Scripts/objgraph.py",
+      "size": 6233
+    },
+    {
+      "name": "bin/Tools/Scripts/parseentities.py",
+      "size": 1783
+    },
+    {
+      "name": "bin/Tools/Scripts/patchcheck.py",
+      "size": 5810
+    },
+    {
+      "name": "bin/Tools/Scripts/pathfix.py",
+      "size": 4479
+    },
+    {
+      "name": "bin/Tools/Scripts/pdeps.py",
+      "size": 4104
+    },
+    {
+      "name": "bin/Tools/Scripts/pickle2db.py",
+      "size": 4089
+    },
+    {
+      "name": "bin/Tools/Scripts/pindent.py",
+      "size": 17679
+    },
+    {
+      "name": "bin/Tools/Scripts/ptags.py",
+      "size": 1278
+    },
+    {
+      "name": "bin/Tools/Scripts/pysource.py",
+      "size": 3976
+    },
+    {
+      "name": "bin/Tools/Scripts/redemo.py",
+      "size": 5963
+    },
+    {
+      "name": "bin/Tools/Scripts/reindent-rst.py",
+      "size": 292
+    },
+    {
+      "name": "bin/Tools/Scripts/reindent.py",
+      "size": 11152
+    },
+    {
+      "name": "bin/Tools/Scripts/rgrep.py",
+      "size": 1557
+    },
+    {
+      "name": "bin/Tools/Scripts/serve.py",
+      "size": 1182
+    },
+    {
+      "name": "bin/Tools/Scripts/setup.py",
+      "size": 441
+    },
+    {
+      "name": "bin/Tools/Scripts/suff.py",
+      "size": 652
+    },
+    {
+      "name": "bin/Tools/Scripts/svneol.py",
+      "size": 3022
+    },
+    {
+      "name": "bin/Tools/Scripts/texcheck.py",
+      "size": 9489
+    },
+    {
+      "name": "bin/Tools/Scripts/texi2html.py",
+      "size": 71902
+    },
+    {
+      "name": "bin/Tools/Scripts/treesync.py",
+      "size": 5989
+    },
+    {
+      "name": "bin/Tools/Scripts/untabify.py",
+      "size": 1268
+    },
+    {
+      "name": "bin/Tools/Scripts/which.py",
+      "size": 1691
+    },
+    {
+      "name": "bin/Tools/Scripts/win_add2path.py",
+      "size": 1677
+    },
+    {
+      "name": "bin/Tools/Scripts/xxci.py",
+      "size": 2914
+    },
+    {
+      "name": "bin/Tools/i18n/makelocalealias.py",
+      "size": 2082
+    },
+    {
+      "name": "bin/Tools/i18n/msgfmt.py",
+      "size": 6714
+    },
+    {
+      "name": "bin/Tools/i18n/pygettext.py",
+      "size": 22764
+    },
+    {
+      "name": "bin/Tools/pynche/ChipViewer.py",
+      "size": 5128
+    },
+    {
+      "name": "bin/Tools/pynche/ColorDB.py",
+      "size": 9217
+    },
+    {
+      "name": "bin/Tools/pynche/DetailsViewer.py",
+      "size": 10389
+    },
+    {
+      "name": "bin/Tools/pynche/ListViewer.py",
+      "size": 6823
+    },
+    {
+      "name": "bin/Tools/pynche/Main.py",
+      "size": 6629
+    },
+    {
+      "name": "bin/Tools/pynche/PyncheWidget.py",
+      "size": 10810
+    },
+    {
+      "name": "bin/Tools/pynche/README.txt",
+      "size": 16182
+    },
+    {
+      "name": "bin/Tools/pynche/StripViewer.py",
+      "size": 15898
+    },
+    {
+      "name": "bin/Tools/pynche/Switchboard.py",
+      "size": 4956
+    },
+    {
+      "name": "bin/Tools/pynche/TextViewer.py",
+      "size": 7057
+    },
+    {
+      "name": "bin/Tools/pynche/TypeinViewer.py",
+      "size": 6263
+    },
+    {
+      "name": "bin/Tools/pynche/X/rgb.txt",
+      "size": 18128
+    },
+    {
+      "name": "bin/Tools/pynche/X/xlicense.txt",
+      "size": 1381
+    },
+    {
+      "name": "bin/Tools/pynche/__init__.py",
+      "size": 48
+    },
+    {
+      "name": "bin/Tools/pynche/html40colors.txt",
+      "size": 262
+    },
+    {
+      "name": "bin/Tools/pynche/namedcolors.txt",
+      "size": 5816
+    },
+    {
+      "name": "bin/Tools/pynche/pyColorChooser.py",
+      "size": 3893
+    },
+    {
+      "name": "bin/Tools/pynche/pynche.pyw",
+      "size": 188
+    },
+    {
+      "name": "bin/Tools/pynche/webcolors.txt",
+      "size": 3229
+    },
+    {
+      "name": "bin/Tools/pynche/websafe.txt",
+      "size": 1966
+    },
+    {
+      "name": "bin/Tools/versioncheck/README.txt",
+      "size": 2184
+    },
+    {
+      "name": "bin/Tools/versioncheck/_checkversion.py",
+      "size": 446
+    },
+    {
+      "name": "bin/Tools/versioncheck/checkversions.py",
+      "size": 1470
+    },
+    {
+      "name": "bin/Tools/versioncheck/pyversioncheck.py",
+      "size": 4149
+    },
+    {
+      "name": "bin/Tools/webchecker/README.txt",
+      "size": 842
+    },
+    {
+      "name": "bin/Tools/webchecker/tktools.py",
+      "size": 11552
+    },
+    {
+      "name": "bin/Tools/webchecker/wcgui.py",
+      "size": 15546
+    },
+    {
+      "name": "bin/Tools/webchecker/wcmac.py",
+      "size": 201
+    },
+    {
+      "name": "bin/Tools/webchecker/webchecker.py",
+      "size": 30638
+    },
+    {
+      "name": "bin/Tools/webchecker/websucker.py",
+      "size": 3425
+    },
+    {
+      "name": "bin/Tools/webchecker/wsgui.py",
+      "size": 7274
+    },
+    {
+      "name": "bin/include/Python-ast.h",
+      "size": 21648
+    },
+    {
+      "name": "bin/include/Python.h",
+      "size": 4507
+    },
+    {
+      "name": "bin/include/abstract.h",
+      "size": 46411
+    },
+    {
+      "name": "bin/include/asdl.h",
+      "size": 1144
+    },
+    {
+      "name": "bin/include/ast.h",
+      "size": 243
+    },
+    {
+      "name": "bin/include/bitset.h",
+      "size": 824
+    },
+    {
+      "name": "bin/include/boolobject.h",
+      "size": 948
+    },
+    {
+      "name": "bin/include/bufferobject.h",
+      "size": 955
+    },
+    {
+      "name": "bin/include/bytearrayobject.h",
+      "size": 1998
+    },
+    {
+      "name": "bin/include/bytes_methods.h",
+      "size": 2879
+    },
+    {
+      "name": "bin/include/bytesobject.h",
+      "size": 1179
+    },
+    {
+      "name": "bin/include/cStringIO.h",
+      "size": 2078
+    },
+    {
+      "name": "bin/include/cellobject.h",
+      "size": 679
+    },
+    {
+      "name": "bin/include/ceval.h",
+      "size": 5139
+    },
+    {
+      "name": "bin/include/classobject.h",
+      "size": 3085
+    },
+    {
+      "name": "bin/include/cobject.h",
+      "size": 3019
+    },
+    {
+      "name": "bin/include/code.h",
+      "size": 4002
+    },
+    {
+      "name": "bin/include/codecs.h",
+      "size": 5189
+    },
+    {
+      "name": "bin/include/compile.h",
+      "size": 1105
+    },
+    {
+      "name": "bin/include/complexobject.h",
+      "size": 1919
+    },
+    {
+      "name": "bin/include/datetime.h",
+      "size": 8552
+    },
+    {
+      "name": "bin/include/descrobject.h",
+      "size": 2574
+    },
+    {
+      "name": "bin/include/dictobject.h",
+      "size": 6781
+    },
+    {
+      "name": "bin/include/dtoa.h",
+      "size": 353
+    },
+    {
+      "name": "bin/include/enumobject.h",
+      "size": 270
+    },
+    {
+      "name": "bin/include/errcode.h",
+      "size": 1399
+    },
+    {
+      "name": "bin/include/eval.h",
+      "size": 582
+    },
+    {
+      "name": "bin/include/fileobject.h",
+      "size": 3759
+    },
+    {
+      "name": "bin/include/floatobject.h",
+      "size": 5710
+    },
+    {
+      "name": "bin/include/frameobject.h",
+      "size": 3272
+    },
+    {
+      "name": "bin/include/funcobject.h",
+      "size": 3071
+    },
+    {
+      "name": "bin/include/genobject.h",
+      "size": 931
+    },
+    {
+      "name": "bin/include/graminit.h",
+      "size": 2004
+    },
+    {
+      "name": "bin/include/grammar.h",
+      "size": 2114
+    },
+    {
+      "name": "bin/include/import.h",
+      "size": 2292
+    },
+    {
+      "name": "bin/include/intobject.h",
+      "size": 2859
+    },
+    {
+      "name": "bin/include/intrcheck.h",
+      "size": 289
+    },
+    {
+      "name": "bin/include/iterobject.h",
+      "size": 545
+    },
+    {
+      "name": "bin/include/listobject.h",
+      "size": 2581
+    },
+    {
+      "name": "bin/include/longintrepr.h",
+      "size": 4010
+    },
+    {
+      "name": "bin/include/longobject.h",
+      "size": 5943
+    },
+    {
+      "name": "bin/include/marshal.h",
+      "size": 738
+    },
+    {
+      "name": "bin/include/memoryobject.h",
+      "size": 2899
+    },
+    {
+      "name": "bin/include/metagrammar.h",
+      "size": 271
+    },
+    {
+      "name": "bin/include/methodobject.h",
+      "size": 3331
+    },
+    {
+      "name": "bin/include/modsupport.h",
+      "size": 5158
+    },
+    {
+      "name": "bin/include/moduleobject.h",
+      "size": 633
+    },
+    {
+      "name": "bin/include/node.h",
+      "size": 999
+    },
+    {
+      "name": "bin/include/object.h",
+      "size": 39835
+    },
+    {
+      "name": "bin/include/objimpl.h",
+      "size": 14317
+    },
+    {
+      "name": "bin/include/opcode.h",
+      "size": 4763
+    },
+    {
+      "name": "bin/include/osdefs.h",
+      "size": 1122
+    },
+    {
+      "name": "bin/include/parsetok.h",
+      "size": 1844
+    },
+    {
+      "name": "bin/include/patchlevel.h",
+      "size": 1491
+    },
+    {
+      "name": "bin/include/pgen.h",
+      "size": 271
+    },
+    {
+      "name": "bin/include/pgenheaders.h",
+      "size": 1186
+    },
+    {
+      "name": "bin/include/py_curses.h",
+      "size": 4334
+    },
+    {
+      "name": "bin/include/pyarena.h",
+      "size": 2755
+    },
+    {
+      "name": "bin/include/pycapsule.h",
+      "size": 1735
+    },
+    {
+      "name": "bin/include/pyconfig.h",
+      "size": 21529
+    },
+    {
+      "name": "bin/include/pyctype.h",
+      "size": 1299
+    },
+    {
+      "name": "bin/include/pydebug.h",
+      "size": 1363
+    },
+    {
+      "name": "bin/include/pyerrors.h",
+      "size": 11985
+    },
+    {
+      "name": "bin/include/pyexpat.h",
+      "size": 2055
+    },
+    {
+      "name": "bin/include/pyfpe.h",
+      "size": 8665
+    },
+    {
+      "name": "bin/include/pygetopt.h",
+      "size": 366
+    },
+    {
+      "name": "bin/include/pymacconfig.h",
+      "size": 3090
+    },
+    {
+      "name": "bin/include/pymactoolbox.h",
+      "size": 8160
+    },
+    {
+      "name": "bin/include/pymath.h",
+      "size": 6717
+    },
+    {
+      "name": "bin/include/pymem.h",
+      "size": 4820
+    },
+    {
+      "name": "bin/include/pyport.h",
+      "size": 33115
+    },
+    {
+      "name": "bin/include/pystate.h",
+      "size": 6603
+    },
+    {
+      "name": "bin/include/pystrcmp.h",
+      "size": 486
+    },
+    {
+      "name": "bin/include/pystrtod.h",
+      "size": 1627
+    },
+    {
+      "name": "bin/include/pythonrun.h",
+      "size": 7420
+    },
+    {
+      "name": "bin/include/pythread.h",
+      "size": 1196
+    },
+    {
+      "name": "bin/include/rangeobject.h",
+      "size": 674
+    },
+    {
+      "name": "bin/include/setobject.h",
+      "size": 3176
+    },
+    {
+      "name": "bin/include/sliceobject.h",
+      "size": 1375
+    },
+    {
+      "name": "bin/include/stringobject.h",
+      "size": 8135
+    },
+    {
+      "name": "bin/include/structmember.h",
+      "size": 3000
+    },
+    {
+      "name": "bin/include/structseq.h",
+      "size": 903
+    },
+    {
+      "name": "bin/include/symtable.h",
+      "size": 3822
+    },
+    {
+      "name": "bin/include/sysmodule.h",
+      "size": 844
+    },
+    {
+      "name": "bin/include/timefuncs.h",
+      "size": 567
+    },
+    {
+      "name": "bin/include/token.h",
+      "size": 1884
+    },
+    {
+      "name": "bin/include/traceback.h",
+      "size": 728
+    },
+    {
+      "name": "bin/include/tupleobject.h",
+      "size": 2236
+    },
+    {
+      "name": "bin/include/ucnhash.h",
+      "size": 957
+    },
+    {
+      "name": "bin/include/unicodeobject.h",
+      "size": 53581
+    },
+    {
+      "name": "bin/include/warnings.h",
+      "size": 658
+    },
+    {
+      "name": "bin/include/weakrefobject.h",
+      "size": 2883
+    },
+    {
+      "name": "bin/libs/_bsddb.lib",
+      "size": 1888
+    },
+    {
+      "name": "bin/libs/_ctypes.lib",
+      "size": 1714
+    },
+    {
+      "name": "bin/libs/_ctypes_test.lib",
+      "size": 21680
+    },
+    {
+      "name": "bin/libs/_elementtree.lib",
+      "size": 1878
+    },
+    {
+      "name": "bin/libs/_hashlib.lib",
+      "size": 1732
+    },
+    {
+      "name": "bin/libs/_msi.lib",
+      "size": 1664
+    },
+    {
+      "name": "bin/libs/_multiprocessing.lib",
+      "size": 1950
+    },
+    {
+      "name": "bin/libs/_socket.lib",
+      "size": 1920
+    },
+    {
+      "name": "bin/libs/_sqlite3.lib",
+      "size": 1732
+    },
+    {
+      "name": "bin/libs/_ssl.lib",
+      "size": 1664
+    },
+    {
+      "name": "bin/libs/_testcapi.lib",
+      "size": 1748
+    },
+    {
+      "name": "bin/libs/_tkinter.lib",
+      "size": 1732
+    },
+    {
+      "name": "bin/libs/bz2.lib",
+      "size": 1646
+    },
+    {
+      "name": "bin/libs/libpython27.a",
+      "size": 830104
+    },
+    {
+      "name": "bin/libs/pyexpat.lib",
+      "size": 1714
+    },
+    {
+      "name": "bin/libs/python27.lib",
+      "size": 232322
+    },
+    {
+      "name": "bin/libs/select.lib",
+      "size": 1698
+    },
+    {
+      "name": "bin/libs/unicodedata.lib",
+      "size": 1782
+    },
+    {
+      "name": "bin/libs/winsound.lib",
+      "size": 1732
+    },
+    {
+      "name": "bin/msvcr90.dll",
+      "size": 653136
+    },
+    {
+      "name": "bin/python.exe",
+      "size": 26624
+    },
+    {
+      "name": "bin/python27.dll",
+      "size": 2449920
+    },
+    {
+      "name": "bin/python_slave.exe",
+      "size": 26624
+    },
+    {
+      "name": "bin/pythoncom27.dll",
+      "size": 364544
+    },
+    {
+      "name": "bin/pythoncomloader27.dll",
+      "size": 8192
+    },
+    {
+      "name": "bin/pythonw.exe",
+      "size": 27136
+    },
+    {
+      "name": "bin/pywintypes27.dll",
+      "size": 110080
+    }
+  ]
+}
